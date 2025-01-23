@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Screen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6b46f2;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #5138cc;
+      }
+
+      .cls-6 {
+        fill: #6963fa;
+      }
+
+      .cls-7 {
+        fill: #eae5ff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-width: .25px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #5138cc;
+      }
+    </style>
+  </defs>
+  <g id="Character">
+    <rect class="cls-5" x="1.32" y="1.32" width="67.36" height="67.36" rx="12.09" ry="12.09"/>
+  </g>
+  <g>
+    <path class="cls-7" d="m56.84,29.75H23.88c-.55,0-.99-.44-.99-.99v-11.12c0-.55.44-.99.99-.99h32.96c.55,0,.99.44.99.99v11.12c0,.55-.44.99-.99.99Z"/>
+    <rect class="cls-1" x="28.05" y="19.63" width="8.74" height=".99"/>
+    <circle class="cls-6" cx="48.3" cy="20.22" r=".6"/>
+    <circle class="cls-6" cx="50.29" cy="20.22" r=".6"/>
+    <circle class="cls-6" cx="52.27" cy="20.22" r=".6"/>
+    <path class="cls-7" d="m56.84,45.07H23.88c-.55,0-.99-.44-.99-.99v-11.12c0-.55.44-.99.99-.99h32.96c.55,0,.99.44.99.99v11.12c0,.55-.44.99-.99.99Z"/>
+    <rect class="cls-1" x="28.05" y="34.95" width="8.74" height=".99"/>
+    <circle class="cls-6" cx="48.3" cy="35.54" r=".6"/>
+    <circle class="cls-6" cx="50.29" cy="35.54" r=".6"/>
+    <circle class="cls-6" cx="52.27" cy="35.54" r=".6"/>
+    <rect class="cls-7" x="39.51" y="46.86" width="2.56" height="8.71"/>
+    <rect class="cls-7" x="40.19" y="47.88" width="1.75" height="14.48" transform="translate(-14.06 96.19) rotate(-90)"/>
+    <g>
+      <path class="cls-3" d="m7.72,15.44c0,.16.05.32.17.45.13.15.31.24.5.22h8.95c.37.03.69-.24.72-.61v-.06c-.03-.39-.34-.7-.73-.73h-8.95c-.37,0-.67.29-.67.67v.06h0Z"/>
+      <rect class="cls-3" x="11.12" y="21.49" width="7.33" height="1.39" rx=".67" ry=".67"/>
+      <rect class="cls-3" x="6.99" y="27.12" width="4.48" height="1.39" rx=".67" ry=".67"/>
+      <rect class="cls-3" x="10.68" y="30.3" width="7.33" height="1.39" rx=".67" ry=".67"/>
+      <circle class="cls-3" cx="9.45" cy="19.41" r=".67"/>
+      <circle class="cls-3" cx="13.68" cy="25.58" r=".67"/>
+    </g>
+    <circle class="cls-2" cx="23.68" cy="23.2" r="9.7"/>
+    <path class="cls-4" d="m31.52,14.31l-.12.24-.24.29-5.41,5.35-.18.24c-.24.24-.18.53.18.71.47.31.97.59,1.49.84l2.26,1.37c.18.06.36.12.36.36s-.18.36-.36.47l-10.4,5.47-2.79,1.49h-.47c0-.11.05-.21.12-.29l.18-.18,5.35-5.35.18-.24c.2-.11.27-.36.16-.57-.06-.11-.16-.18-.28-.21l-3.68-2.14c-.18-.12-.47-.18-.42-.47s.24-.36.42-.47l13.07-6.89.29-.12.29.12h0Z"/>
+  </g>
+</svg>
