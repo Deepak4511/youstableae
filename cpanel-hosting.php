@@ -15,16 +15,16 @@ include('inc/header.php');
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/NVMeSSD-Drive.svg" alt="ssd"></span>1 Free Domain
+                                        src="assets/img/icons/free-domain.svg" alt="Free Domain"></span>1 Free Domain
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/easy-to-manage.svg" alt="manage"></span>LiteSpeed Web Server</li>
+                                        src="assets/img/icons/litespeed-web-server.svg" alt="LiteSpeed Web Server"></span>LiteSpeed Web Server</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/migration.svg" alt="migration"></span>Malware Protection</li>
+                                        src="assets/img/icons/malware-protection.svg" alt="Malware Protection"></span>Malware Protection</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/24x7.svg" alt="support"></span>Auto Backup
+                                        src="assets/img/icons/auto-backup.svg" alt="auto Backup"></span>Auto Backup
                             </li>
                         </ul>
                     </div>
@@ -35,7 +35,7 @@ include('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/cloud-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/Best-&-Secure-cPanel-Hosting-in-Dubai_.png" alt="Banner">
             </div>
         </div>
     </div>
@@ -47,8 +47,9 @@ include('inc/header.php');
         <h2 class="server-heading shared-heading-plan">Powerfull cPanel Hosting in Dubai Plans and Pricing</h2>
         <p class="server-title choose">We provide the best and affordable cPanel hosting in Dubai to manage your website and scale your business to the next level!</p>
     </div>
-    <?php include 'inc/' ?>
+    <?php include 'inc/cpanelWpPlans.php' ?>
 </section>
+
 
 <section class="hosting-rating">
     <div class="container">
@@ -88,7 +89,7 @@ include('inc/header.php');
                 <div class="row text-left g-4">
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/NVMessd.svg" alt="ssd-storage">
+                            <img src="assets/img/features/Free-Domain.svg" alt="ssd-storage">
                             <h5 class="ay-heading">
                                 Free Domain Registration</h5>
                             <p class="ay-title m-0 w-100">Enjoy free domain registration when you choose Cheap cPanel hosting plans. There are no undisclosed fees involved when you register your new domain with YouStable's hosting.</p>
@@ -96,14 +97,14 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/SSL-certificate.svg" alt="ssl-certificate">
+                            <img src="assets/img/features/NVMessd.svg" alt="ssl-certificate">
                             <h5 class="ay-heading">NVMe SSD Drives</h5>
                             <p class="ay-title m-0 w-100">With every web hosting plan, you will receive NVMe SSD Drives that are 100% pure. NVMe SSDs offer a speed that is 600 times faster than traditional HDD and SATA drives.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/LiteSpeed-Web-Server.svg" alt="speed-web-server">
+                            <img src="assets/img/features/99.9-Server-Uptime.svg" alt="speed-web-server">
                             <h5 class="ay-heading">99.95% Server Uptime</h5>
                             <p class="ay-title m-0 w-100">With YouStable's web hosting service, you are assured a server uptime of 99.95%. You can conveniently monitor our server uptime in real-time using our live server monitoring tool.
                             </p>
@@ -111,7 +112,7 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
+                            <img src="assets/img/features/daily-backup.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Auto Backups</h5>
                             <p class="ay-title m-0 w-100">YouStable automatically generates a backup of your website and recovers any lost website content from the past 7 days. Shared hosting provides free off-site backups, while VPS Hosting offers chargeable off-site backups. However, on-site backups are completely free!
                             </p>
@@ -119,14 +120,14 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/daily-backup.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Easy-to-use-control-panel.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Friendly Control Panel</h5>
                             <p class="ay-title m-0 w-100">cPanel, the control panel that is widely used, has been highly regarded among web hosting providers and users. Its user-friendly interface and familiarity make it extremely easy to use and understand.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/LiteSpeed-Web-Server.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                                 LiteSpeed Web Servers</h5>
                             <p class="ay-title m-0 w-100">With the utilization of the most optimized web server, your website will soar swiftly. LiteSpeed⚡ web servers are specifically engineered to provide a website performance that is 10 times better.</p>
@@ -142,7 +143,7 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                                 Free Site Migration</h5>
                             <p class="ay-title m-0 w-100">Our dedicated team will efficiently migrate all your files at no cost, up to a maximum of 5GB. You can trust us completely as we recognize the significance of your content. Our migration process is both speedy and free of charge!</p>

@@ -3,6 +3,39 @@ $page = 'Home';
 include('inc/header.php');
 ?>
 
+<style>
+    .badge-title{
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .resource-body{
+        padding: 35px 20px;
+    }
+
+    .resource-card{
+        border: 1px solid #4927b9;
+        border-radius: 25px;
+        height: 100%;
+    }
+
+  .view-btn{
+    border: 1px solid #ffc235;
+    background-color: #ffc235;
+    color: #000;
+    padding: 12px;
+    font-size: 22px;
+    font-weight: 500;
+  }
+
+  .view-btn:hover{
+    background: #292929;
+    color: #fff;
+  }
+
+
+</style>
+
 <!-- Banner section -->
 <section class="banner-sec share-bg-four">
     <div class=" container">
@@ -35,7 +68,7 @@ include('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/cloud-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/India's-best-web-hosting.png" alt="Banner">
             </div>
         </div>
     </div>
@@ -45,7 +78,7 @@ include('inc/header.php');
 <!-- (Explore Plan section) -->
 <section class="explore-section mt-5 plans-mobile-one" id="explore">
     <div class="text-center shared-hosting-plan-heading web-host">
-        <h2 class="server-heading shared-heading-plan">Get the Best Web Hosting in India</h2>
+        <h2 class="server-heading shared-heading-plan">Get the Best Web Hosting in Dubai</h2>
         <p class="server-title choose">Choose the Perfect Web Hosting Solution from among the various options provided
             as under.<br> Don’t know which one to Go for? Let us help you! Connect with <a href="https://www.youstable.com/contact-us" target="_blank">our Sales Team</a> Now!
         </p>
@@ -59,7 +92,7 @@ include('inc/header.php');
                         <!--<img class="hosting-icons" src="assets/img/dedicated-server.png" alt="dedicated server">-->
                         <h4 class="hosting-heading">DEDICATED SERVER</h4>
                         <div class="price-container">
-                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 4,999</p>
+                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 472</p>
                             <p class="per_month">/month</p>
                         </div>
 
@@ -94,9 +127,13 @@ include('inc/header.php');
                                 <i class="fa-solid fa-check"></i>
                                 <p class="m-0">Free Direct Admin</p>
                             </div>
+                            <div class="d-flex gap-2 specifications">
+                                <i class="fa-solid fa-check"></i>
+                                <p class="m-0"> Zero setup fees</p>
+                            </div>
                         </div>
                         <div class="free_setup btn-yellow ">
-                            <p class="m-0"> Zero setup fees</p>
+                            <p class="m-0">Free setup</p>
                         </div>
                     </div>
                 </div>
@@ -110,11 +147,11 @@ include('inc/header.php');
                         </div>
                         <h4 class="hosting-heading">VPS HOSTING</h4>
                         <div class="price-container">
-                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 574</p>
+                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 25.0</p>
                             <p class="per_month">/month</p>
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
-                                AED 1,149/month</span></p>
+                                AED 50.0/month</span></p>
                         <a href="vps-hosting.php"><button class="btn-purple exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
@@ -157,11 +194,11 @@ include('inc/header.php');
                     <div class="upper-card home-uppercard">
                         <h4 class="hosting-heading">SHARED PLAN</h4>
                         <div class="price-container">
-                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 49</p>
+                            <p class="hosting-price indian-host-price"><span class="hin-rs"></span>AED 6.0</p>
                             <p class="per_month">/month</p>
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
-                                AED 199/month</span></p>
+                                AED 21.0/month</span></p>
                         <a href="shared-hosting.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
@@ -278,7 +315,7 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/newImages/123.svg" alt="refund">
+                            <img src="assets/img/refund.svg" alt="refund">
                             <h5 class="ay-heading">30 Days Refund Policy</h5>
                             <p class="ay-title">We have full confidence on our services that’s why we provide you 30-days money back guarantee that you can avail anytime without extra formalities.</p>
                         </div>
@@ -420,14 +457,127 @@ include('inc/header.php');
 include('inc/serverTechnologies.php');
 ?>
 
+<!-- <section>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div class="col-md-6"></div>
+    </div>
+</div>
+</section> -->
+
+
+
 <section>
-
-</section>
-
-
-
-<section>
-
+<div class='resource-section p-1'>
+    <div class="container my-4">
+        <h2 class="text-center mb-3 m-auto">Looking for Something More? Avail it as per Your Needs</h2>
+        <p class="text-center w-75 m-auto mb-5 sub-heading">
+        Whether you’re in need of WordPress Hosting, VPS Hosting, Dedicated Server or any other web hosting services, we’ve got you Everything covered!
+        </p>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">VPS Hosting</p>
+                        
+                        
+                        <p class='plan-resource-desc mb-4'>Experience ultra-high performance at a very low cost, an ideal hosting for those who are running a high-traffic website.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 25
+                            <small>/month</small>
+                        </h3>
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                                VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">Dedicated Server</p>
+                        
+                        
+                        <p class='plan-resource-desc mb-4'>Experience ultra-high performance at a very low cost, an ideal hosting for those who are running a high-traffic website.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 472
+                            <small>/month</small>
+                        </h3>
+                        <a href=""> <button class="btn w-100 view-btn fw-blod">
+                                VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">Domain</p>
+                        
+                        
+                        <p class='plan-resource-desc mb-4'>Choose the best name that represents your business or website with multiple domain extensions available.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 3
+                            <small>/year</small>
+                        </h3>
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                                VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">WordPress Hosting</p>
+                        
+                        
+                        <p class='plan-resource-desc mb-4'>Choose the best name that represents your business or website with multiple domain extensions available.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 6
+                            <small>/month</small>
+                        </h3>
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                         VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">cPanel Hosting</p>
+                        
+                        
+                        <p class='plan-resource-desc mb-4'>Get full control of your resources with cPanel hosting and manage your website in just a few clicks.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 7
+                            <small>/month</small>
+                        </h3>
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <div class="card text-center resource-card">
+                    <div class="card-body resource-body">
+                        <p class="badge-title mb-4">Python Hosting</p>
+   
+                        <p class='plan-resource-desc mb-4'>Launch your Application with the most powerful python web hosting servers and enjoy unhindered performance.</p>
+                        <p class="text-muted mb-3">Starting at</p>
+                        <h3 class='mt-4 hosting-price mb-3'>
+                            AED 12
+                            <small>/month</small>
+                        </h3>
+                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                                VIEW OPTIONS</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 

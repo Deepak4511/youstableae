@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Screen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: #5138cc;
+      }
+    </style>
+  </defs>
+  <g id="Character">
+    <rect class="cls-3" x="1.32" y="1.32" width="67.36" height="67.36" rx="12.09" ry="12.09"/>
+  </g>
+  <path class="cls-2" d="m19.62,55.3h33.65c1.41,0,2.55-1.14,2.55-2.55V18.84c0-1.41-1.14-2.55-2.55-2.55H19.62c-1.41,0-2.55,1.14-2.55,2.55v33.91c0,1.41,1.14,2.55,2.55,2.55Zm-2.55-31.36h38.75"/>
+  <circle class="cls-1" cx="20.64" cy="20.37" r="1.02"/>
+  <circle class="cls-1" cx="24.21" cy="20.37" r="1.02"/>
+  <circle class="cls-1" cx="27.78" cy="20.37" r="1.02"/>
+  <circle class="cls-1" cx="29.31" cy="32.1" r="2.04"/>
+  <circle class="cls-1" cx="42.05" cy="39.24" r="2.04"/>
+  <circle class="cls-1" cx="36.45" cy="47.39" r="2.04"/>
+  <path class="cls-2" d="m24.72,32.1h2.16m21.3,0h-16.51m-6.94,7.14h14.97m8.49,0h-3.7m-19.75,8.16h9.41m14.04,0h-9.26"/>
+</svg>

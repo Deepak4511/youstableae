@@ -16,7 +16,7 @@ include('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="our-team-image floatings" src="assets/img/newImages/TERMS-AND-CONDITION.png" alt="Banner" srcset="">
+                <img class="our-team-image floatings" src="assets/img/heroImg/TERMS-AND-CONDITIONS.png" alt="Banner" srcset="">
             </div>
         </div>
     </div>
@@ -387,10 +387,6 @@ include('inc/header.php');
 
 
                 </div>
-
-
-
-
 
             </div>
         </div>

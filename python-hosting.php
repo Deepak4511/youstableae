@@ -2,6 +2,11 @@
 $page = 'python-hosting';
 include ('inc/header.php');
 ?>
+<style>
+    ul.banner-list.list-unstyled img {
+  width: 15%;
+}
+</style>
 
 
 <section class="banner-sec share-bg">
@@ -9,25 +14,25 @@ include ('inc/header.php');
         <div class="row align-items-center reverse-column">
             <div class="col-md-6">
                 <div class="banner-left-content">
-                    <p class="experience">Python Web Hosting Services</p>
-                    <h1 class="Banner-Heading padding-heading robust">Robust Python Hosting Solution</h1>
-                    <p class="Banner-title p-0">Experience unbeatable speed, security, and support with YouStable's Python Web Hosting. Start your Python project with 1-Click Python App Installer today!</p>
+                    <p class="experience"> 70% Discount on first annual purchase</p>
+                    <h1 class="Banner-Heading padding-heading robust">Developer Friendly Dubai’s Best Python Hosting</h1>
+                    <p class="Banner-title p-0">Utilize YouStable's Python Hosting to its fullest potential with its user-friendly interface and a Python Application Installer that can be accessed with just a single click.</p>
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><img
-                                    src="assets/img/Terminal-access.svg" alt="tick" class="tick-square">
-                                Direct Terminal Access</li>
+                                    src="assets/img/icons/Terminal-access.svg" alt="tick" class="tick-square">
+                                    Terminal Access enabled</li>
                             <li class="purple-text_dark color-black-1"><img
-                                    src="assets/img/india-location_1.svg" alt="tick" class="tick-square">
-                                India Locations</li>
+                                    src="assets/img/icons/" alt="tick" class="tick-square">
+                                    Latest Python Version</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><img
-                                    src="assets/img/cpanel-control-panel.svg" alt="tick" class="tick-square">
-                                cPanel Control Panel</li>
-                            <li class="purple-text_dark color-black-1"><img src="assets/img/24x7.svg"
+                                    src="assets/img/icons/advanced-control-panel.svg" alt="tick" class="tick-square">
+                                    cPanel Control Panel</li>
+                            <li class="purple-text_dark color-black-1"><img src="assets/img/icons/24x7.svg"
                                     alt="tick" class="tick-square">
-                                24/7 Support</li>
+                                    24/7 Support</li>
                         </ul>
                     </div>
                 </div>
@@ -37,7 +42,7 @@ include ('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/python-hosting-one.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/python-hosting.png" alt="Banner">
             </div>
         </div>
     </div>
@@ -56,22 +61,22 @@ include ('inc/header.php');
                 <div class="col-lg-3 python-wid">
                     <div class="box-design two" style="border-left:unset;">
                         <div class="icon-images">
-                            <img src="assets/img/icons/Free-Domain.svg" alt="icon">
+                            <img src="assets/img/features/Free-Domain.svg" alt="icon">
                         </div>
                         <div class="points-headiline">
                             <h4 class="heading-purple" style="color:#6B46F2;">1 Free-Domain</h5>
                         </div>
                         <div class="hosting_specification python">
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>1 Free Domain</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Host 10 Websites</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>DNS Management</p>
                             </div>
 
@@ -81,22 +86,22 @@ include ('inc/header.php');
                 <div class="col-lg-3 python-wid">
                     <div class="box-design">
                         <div class="icon-images">
-                            <img src="assets/img/icons/NVMe-SSD-python.svg" alt="icon">
+                            <img src="assets/img/features/NVMessd.svg" alt="icon">
                         </div>
                         <div class="points-headiline">
                             <h4 class="heading-purple" style="color:#6B46F2;">NVMe SSD</h4>
                         </div>
                         <div class="hosting_specification python">
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Unlimited NVMe SSD</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Unmetered Bandwidth</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>5 GB RAM</p>
                             </div>
 
@@ -106,22 +111,22 @@ include ('inc/header.php');
                 <div class="col-lg-3 python-wid">
                     <div class="box-design">
                         <div class="icon-images">
-                            <img src="assets/img/icons/Free-SSL-Cerificate.svg" alt="icon">
+                            <img src="assets/img/features/SSL-certificate.svg" alt="icon">
                         </div>
                         <div class="points-headiline">
                             <h4 class="heading-purple" style="color:#6B46F2;">Free SSL Cerificate</h4>
                         </div>
                         <div class="hosting_specification python">
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Free Let's Encrypt</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>LiteSpeed Web Server</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>cPanel Control Panel</p>
                             </div>
 
@@ -131,22 +136,22 @@ include ('inc/header.php');
                 <div class="col-lg-3 python-wid">
                     <div class="box-design">
                         <div class="icon-images">
-                            <img src="assets/img/icons/Professional-Emails.svg" alt="icon">
+                            <img src="assets/img/features/Professional-Emails.svg" alt="icon">
                         </div>
                         <div class="points-headiline">
                             <h4 class="heading-purple" style="color:#6B46F2;">Professional Emails</h4>
                         </div>
                         <div class="hosting_specification python">
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Unlimited Bussiness Emails</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>Secure From Spams</p>
                             </div>
                             <div class="d-flex gap-2 specifications pythons">
-                                <img src="assets/img/speci-tick.png" class="specification-tick tick-5">
+                                <i class="fa-solid fa-check"></i>
                                 <p>No Additional Cost</p>
                             </div>
 
@@ -173,10 +178,10 @@ include ('inc/header.php');
                         <div class="col-lg-3"></div>
                         <div class="col-lg-6">
                             <div class="price-bundle">
-                                <p class="indian-host-price" style="text-decoration: line-through;">(Was ₹869 /monthly)
+                                <p class="indian-host-price" style="text-decoration: line-through;">
                                 </p>
-                                <p class="indian-host-price"><span class="fontless">₹</span> <span
-                                        class="price-bold">259/</span><span class="fontless">mo</span></p>
+                                <p class="indian-host-price"><span class="fontless"></span> <span
+                                        class="price-bold">AED 12.0/</span><span class="fontless">mo</span></p>
                             </div>
                         </div>
                         <div class="col-lg-3">
@@ -236,21 +241,21 @@ include ('inc/header.php');
                 <div class="row text-left g-4">
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/NVMessd.svg" alt="ssd-storage">
+                            <img src="assets/img/features/SSH-Access.svg" alt="ssd-storage">
                             <h5 class="ay-heading">SSH Access</h5>
                             <p class="ay-title m-0 w-100">YouStable provides the utmost secure server access option through its Python hosting. The combination of the cryptographic network protocol and the set of tools employed to execute it is commonly known as SSH.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/SSL-certificate.svg" alt="ssl-certificate">
+                            <img src="assets/img/features/1-Click-Python-Install.svg" alt="ssl-certificate">
                             <h5 class="ay-heading">1-Click Python Install</h5>
                             <p class="ay-title m-0 w-100">You can install any version of Python with just one click when you choose YouStable’s Python hosting plan. Install the script by logging into your control panel and manage your website without any hassle!</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/LiteSpeed-Web-Server.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Multiple-Framework-Support.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Multiple Framework Support</h5>
                             <p class="ay-title m-0 w-100">YouStable allows you to easily deploy various frameworks such as Django, Flask, Gunicorn, PostgreSQL, and more. By providing SSH and terminal access, you can swiftly deploy your preferred framework.
                             </p>
@@ -258,7 +263,7 @@ include ('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Advanced-Security.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Advanced Security</h5>
                             <p class="ay-title m-0 w-100">With the robust security provided by Imunify360, you can shield your website from malware, DDoS attacks, and various cyber threats. Our top-notch protection ensures your website's security remains impregnable.
                             </p>
@@ -266,7 +271,7 @@ include ('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/daily-backup.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                             24/7/365 Support</h5>
                             <p class="ay-title m-0 w-100">YouStable offers exclusive access to their team of Python Hosting experts for personalized assistance. You have the flexibility to reach out to their staff through various communication channels. They are available round the clock, 24/7, to provide continuous support throughout your online journey.</p>
@@ -274,21 +279,21 @@ include ('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/NVMessd.svg" alt="speed-web-server">
                             <h5 class="ay-heading">NVMe SSD Servers</h5>
                             <p class="ay-title m-0 w-100">With every web hosting plan, you will receive NVMe SSD Drives that are 100% pure, ensuring your website achieves blazing fast speeds on the internet. NVMe SSDs are 600 times faster than traditional HDD and SATA drives!</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/99.9-Server-Uptime.svg" alt="speed-web-server">
                             <h5 class="ay-heading">99.95% Guaranteed Uptime</h5>
                             <p class="ay-title m-0 w-100">Even if you disconnect from one server, the other servers within your network will automatically reconnect to you without delay. As a result, there will never be a moment when your website experiences downtime, ensuring that you do not lose any potential clients.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                             Free Migration</h5>
                             <p class="ay-title m-0 w-100">We have assembled a specialized group of skilled professionals to facilitate the seamless transfer of all your files without any charges (up to 5GB*). You can place your trust in us as we comprehend the significance of your content. Our service is swift and complimentary!</p>

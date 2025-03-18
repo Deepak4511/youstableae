@@ -15,7 +15,7 @@ if (!isset($meta_data[$page])) {
 
 ?>
 <!doctype html>
-<html lang="en">
+<html lang="en-US">
 
 <head>
   <meta charset="utf-8">
@@ -207,25 +207,25 @@ if (!isset($meta_data[$page])) {
                 Web Hosting
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item first-shared" href="shared-hosting.php"><Span Class="icon-drop"><img
+                <li><a class="dropdown-item first-shared" href="/shared-hosting.php"><Span Class="icon-drop"><img
                         src="assets/img/shared.png" alt="hosting-icon" /></Span> <span
                       class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav"> Shared Hosting </p>
                       <p class="dropdown-menu-main-description">Perfect Fit for Low-Traffic Blogs</p>
                     </span></a></li>
-                <li><a class="dropdown-item first-shared" href="wordpress-hosting.php"><Span Class="icon-drop"><img
+                <li><a class="dropdown-item first-shared" href="/wordpress-hosting.php"><Span Class="icon-drop"><img
                         src="assets/img/wordpress.png" alt="hosting-icon" /></Span> <span
                       class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav"> Wordpress Hosting </p>
                       <p class="dropdown-menu-main-description">Boosts WP Speed & Security</p>
                     </span></a></li>
-                <li><a class="dropdown-item first-shared" href="cpanel-hosting.php"><Span Class="icon-drop"><img
+                <li><a class="dropdown-item first-shared" href="/cpanel-hosting.php"><Span Class="icon-drop"><img
                         src="assets/img/cpanel.png" alt="hosting-icon" /></Span> <span
                       class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav"> cPanel Hosting </p>
                       <p class="dropdown-menu-main-description">UserFriendly cPanel Interface</p>
                     </span></a></li>
-                <li><a class="dropdown-item first-shared-one" href="python-hosting.php" style="border-bottom:0px;"><Span
+                <li><a class="dropdown-item first-shared-one" href="/python-hosting.php" style="border-bottom:0px;"><Span
                       Class="icon-drop"><img src="assets/img/python.png"
                         alt="hosting-icon" /></Span>
                     <span class="dropdown-menu-link-conatiner">
@@ -240,26 +240,15 @@ if (!isset($meta_data[$page])) {
                 VPS
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item first-shared" href="vps-hosting.php"><span class="icon-drop">
+                <li><a class="dropdown-item first-shared" href="/vps-server/"><span class="icon-drop">
                       <img src="assets/img/VPS-server.png" alt="hosting-icon"></span>
                     <span
                       class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav"> VPS Server </p>
                       <p class="dropdown-menu-main-description">Get Reliable Web Resources</p>
                     </span></a></li>
-                <li><a class="dropdown-item first-shared" href="cyberpanel-vps.php"><span class="icon-drop"><img
-                        src="assets/img/cyberpanel.png" alt="hosting-icon"></span><span
-                      class="dropdown-menu-link-conatiner">
-                      <p class="dropdown-menu-main-nav"> CyberPanel VPS </p>
-                      <p class="dropdown-menu-main-description">Free Addon’s worth $94 (WP Optimized)</p>
-                    </span> </a></li>
-                <li><a class="dropdown-item first-shared" href="directadmin-vps.php"><span class="icon-drop"><img
-                        src="assets/img/direct.png" alt="hosting-icon"></span><span
-                      class="dropdown-menu-link-conatiner">
-                      <p class="dropdown-menu-main-nav"> DirectAdmin VPS </p>
-                      <p class="dropdown-menu-main-description">Fast and Reliable Panel</p>
-                    </span> </a></li>
-                <li><a class="dropdown-item first-shared-one" href="cpanel-vps.php" style="border-bottom:0px;"><span
+
+                <li><a class="dropdown-item first-shared-one" href="/vps-server/cpanel.php" style="border-bottom:0px;"><span
                       class="icon-drop"><img src="assets/img/cpanel.png" alt="hosting-icon"></span><span
                       class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav"> cPanel VPS </p>
@@ -271,7 +260,7 @@ if (!isset($meta_data[$page])) {
             </li>
 
             <li class="nav-item">
-              <a class="nav-link header-links" href="dedicated-servers.php">Servers</a>
+              <a class="nav-link header-links" href="/dedicated-servers/">Servers</a>
             </li>
 
             <li class="nav-item dropdown hover-effect">
@@ -288,32 +277,66 @@ if (!isset($meta_data[$page])) {
 
               </ul>
             </li>
-            <li class="nav-item">
-              <a class="nav-link header-links" href="affiliate.php">Affiliates</a>
-            </li>
+            <li class="nav-item dropdown hover-effect">
+                <a class="nav-link dropdown-toggle header-links" role="button" data-bs-toggle="" aria-expanded="false">
+                  About
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item first-shared" href="/about-us.php"><span class="icon-drop">
+                      <img src="assets/img/" alt="hosting-icon"></span>
+                      <span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> About Us </p>
+                      </span></a></li>
+                  <li><a class="dropdown-item first-shared" href="/contact-us.php"><span class="icon-drop"><img
+                          src="assets/img/" alt="hosting-icon"></span><span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> Contact Us</p>
+                      </span> </a></li>
+                  <li><a class="dropdown-item first-shared" href="/affiliates.php"><span class="icon-drop"><img
+                          src="assets/img/" alt="hosting-icon"></span><span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> Affiliate</p>
+                      </span> </a></li>
+                  <li><a class="dropdown-item first-shared-one" href="network-and-datacenter.php" style="border-bottom:0px;"><span
+                        class="icon-drop"><img src="assets/img/" alt="hosting-icon"></span><span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav">Datacenter</p>
+                      </span> </a>
+                  </li>
+
+                </ul>
+              </li>
 
             <p class="Existing-Customer">Existing Customer, Login</p>
-            <li class="nav-item login-remover-bd">
+            <li class="nav-item login-remover-bd dropdown hover-effect">
               <div class="nav-login-item">
-                <a href="https://www.youstable.com/manage/index.php?rp=/login"
-                  class="nav-link header-links phone-1">LOGIN</a>
+                <a role="button" data-bs-toggle="" aria-expanded="false"
+                  class="nav-link header-links phone-1 dropdown-toggle">LOGIN</a>
               </div>
+              <ul class="dropdown-menu" style="right: 0px;">
+                  <li><a class="dropdown-item first-shared" href="https://youstable.com/manage/index.php?rp=/login"><span class="icon-drop">
+                      <img src="assets/img/" alt="hosting-icon"></span>
+                      <span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> Login</p>
+                      </span></a></li>
+                  <li><a class="dropdown-item first-shared" href="https://youstable.com/manage/register.php"><span class="icon-drop"><img
+                          src="assets/img/" alt="hosting-icon"></span><span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> SignUp</p>
+                      </span> </a></li>
+                  <li><a class="dropdown-item first-shared" href="https://youstable.com/manage/index.php?rp=/password/reset"><span class="icon-drop"><img
+                          src="assets/img/" alt="hosting-icon"></span><span
+                        class="dropdown-menu-link-conatiner">
+                        <p class="dropdown-menu-main-nav"> Forget Password</p>
+                      </span> </a></li>
+
+                </ul>
             </li>
 
           </ul>
         </div>
-        <!-- <li class="nav-item flag-border login-remover-bd" style="position: relative;">
-          <span class="select" id="select">
-            <img src="assets/img/india-f.png" alt="flag-icon" class="flag-i">
-          </span>
-
-          <ul class="list" id="list">
-            <li id="rupee"><img src="assets/img/india-f.png" title="RUPEE" alt="" class="flag-i" /></li>
-            <li id="usd"><img src="assets/img/usd-f.png" alt="" title="USD" class="flag-i" /></li>
-          </ul>
-
-
-        </li> -->
       </div>
     </nav>
   </div>

@@ -15,16 +15,16 @@ include('inc/header.php');
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/NVMeSSD-Drive.svg" alt="ssd"></span>Inbuilt LSCache Enabled
+                                        src="assets/img/icons/Inbuilt-LS-Cache.svg" alt="ssd"></span>Inbuilt LSCache Enabled
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/easy-to-manage.svg" alt="manage"></span>NVMe SSD Drives</li>
+                                        src="assets/img/icons/NVMeSSD-Drive.svg" alt="manage"></span>NVMe SSD Drives</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/migration.svg" alt="migration"></span>Hindi/English Support</li>
+                                        src="assets/img/icons/Support-Auto-Updates.svg" alt="migration"></span>Hindi/English Support</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/24x7.svg" alt="support"></span>99.99% Uptime
+                                        src="assets/img/icons/uptime.svg" alt="support"></span>99.99% Uptime
                             </li>
                         </ul>
                     </div>
@@ -35,18 +35,19 @@ include('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/cloud-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/wordPress-hosting-in-Dubai.png" alt="Banner">
             </div>
         </div>
     </div>
 </section>
 
+
 <section class="explore-section plans-mobile-one shared-explore review-margin" id="explore">
     <div class="text-center shared-hosting-plan-heading shared-hosting-plan-heading-one">
-        <h2 class="server-heading shared-heading-plan">Get Best Shared Web Hosting Plans that fits your Ambitions</h2>
-        <p class="server-title choose">Select the optimal and budget-friendly hosting plan that aligns perfectly with your needs.</p>
+        <h2 class="server-heading shared-heading-plan">Best WordPress Hosting Plan for Your Site</h2>
+        <p class="server-title choose">Get lightning-fast and hassle-free managed WordPress web hosting in Dubai at the best prices with YouStable. Perfect for Beginners, agencies, and online stores, design your ideal website and pay for the features you need.</p>
     </div>
-    <?php include 'inc/' ?>
+    <?php include 'inc/sharedWpPlans.php' ?>
 </section>
 
 
@@ -90,23 +91,22 @@ include('inc/header.php');
                 <div class="row text-left g-4">
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/NVMessd.svg" alt="ssd-storage">
+                            <img src="assets/img/features/Faster-Website-Speeds.svg" alt="ssd-storage">
                             <h5 class="ay-heading">
-                                
-Faster Website Speeds</h5>
+                                Faster Website Speeds</h5>
                             <p class="ay-title m-0 w-100">To ensure lightning-fast performance for your website on the internet, we leverage cutting-edge AMD EPYC or Xeon E5 Processors coupled with enhanced NVMe SSD Drives.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/SSL-certificate.svg" alt="ssl-certificate">
+                            <img src="assets/img/features/Server-Side-Caching.svg" alt="ssl-certificate">
                             <h5 class="ay-heading">Server-Side Caching</h5>
                             <p class="ay-title m-0 w-100">Server-side caching improves website loading speed by creating a cache of the website on the user's browser. This allows users to avoid loading the entire website every time and results in faster loading times.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/LiteSpeed-Web-Server.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Advanced-Security.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                             Unbeatable Security</h5>
                             <p class="ay-title m-0 w-100">YouStable provides robust security measures, including Imunify360, CSF, BitNinja, and other tools, to protect users from hacker attacks on WordPress, the widely used CMS, ensuring maximum security.
@@ -115,7 +115,7 @@ Faster Website Speeds</h5>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
+                            <img src="assets/img/features/WordPress-Staging.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Staging Environment</h5>
                             <p class="ay-title m-0 w-100">This feature allows you to perform website modifications and test them before making them available to users. As a result, your website will not experience any downtime or other issues while you make customizations.
                             </p>
@@ -130,14 +130,14 @@ Faster Website Speeds</h5>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/Free-Domain.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Free domain Registration</h5>
                             <p class="ay-title m-0 w-100">YouStable provides free domain registration when you choose their annual or tri-annual hosting plans. There are no undisclosed fees involved when you register a new domain through YouStable's hosting services.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="assets/img/features/NVMessd.svg" alt="speed-web-server">
                             <h5 class="ay-heading">NVMe SSD Drives</h5>
                             <p class="ay-title m-0 w-100">YouStable acknowledges the importance of speed in achieving optimal search engine results pages (SERP). To enhance performance, we provide turbo-fast NVMe SSD Drives, which are six times faster than conventional HDD drives.</p>
                         </div>
@@ -169,21 +169,21 @@ Faster Website Speeds</h5>
                 <div class="row">
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/icons/uptime.svg" alt="uptime">
+                            <img src="assets/img/icons/" alt="uptime">
                             <h5 class="ay-heading">1-click Instant Install</h5>
                             <p class="ay-title">Enhancing WordPress for beginners and making it even easier to use with a convenient one-click Softaculous app installation feature, tailored to the preferences of users in Dubai.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/newImages/123.svg" alt="refund">
+                            <img src="assets/img/icons/" alt="refund">
                             <h5 class="ay-heading">1Premium Themes & Plugins</h5>
                             <p class="ay-title">There are over 5,000+ ready-to-use Premium WP themes and Plugins available,Choose the one that suits you Best.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/icons/24x7.svg" alt="support">
+                            <img src="assets/img/icons/" alt="support">
                             <h5 class="ay-heading">Hassle-Free WordPress Maintenance</h5>
                             <p class="ay-title">With automated backups, updates, Easy to import WordPress and migrate to YouStable with A Single Click, Get WordPress websites with full control.</p>
                         </div>

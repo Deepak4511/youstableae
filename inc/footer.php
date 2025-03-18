@@ -61,58 +61,74 @@
               <div class="footer-options">
                 <h5>Our Services</h5>
                 <ul>
-                  <li><a href="wordpress-hosting.php" target="_self">WordPress Hosting</a></li>
-                  <li><a href="cpanel-hosting.php" target="_self"> cPanel Hosting</a></li>
-                  <li><a href="python-hosting.php" target="_self">Python Hosting</a></li>
-                  <li><a href="vps-hosting.php" target="_self"> VPS Hosting Server</a></li>
-                  <li><a href="dedicated-servers.php" target="_self"> Dedicated Server</a></li>
-                  <li><a href="free-domain.php" target="_self"> Free Domain</a></li>
-                  <li><a href="free-rdp.php" target="_self"> RDP Hosting</a></li>
-                  <li><a href="domain-registration.php" target="_self"> Register Domain Name</a></li>
+                  <li><a href="/wordpress-hosting.php" target="_self">WordPress Hosting</a></li>
+                  <li><a href="/cpanel-hosting.php" target="_self"> cPanel Hosting</a></li>
+                  <li><a href="/python-hosting.php" target="_self">Python Hosting</a></li>
+                  <li><a href="/dedicated-servers/" target="_self"> Dedicated Server</a></li>
+                  <li><a href="dedicated-servers/cpanel.php" target="_self">cPanel Dedicated</a></li>
+                  <li><a href="dedicated-servers/bare-metal-server.php" target="_self">Bare Metal Server</a></li>
+                  <li><a href="dedicated-servers/mumbai.php" target="_self">Mumbai Dedicated Server</a></li>
+                  
 
 
                 </ul>
               </div>
               <div class="footer-options">
-                <h5 style="margin-right: 17px;">VPS Hosting</h5>
+                <h5 style="margin-right: 17px;">VPS Services</h5>
                 <ul>
-                  <li><a href="cyberpanel-vps.php" target="_self">CyberPanel VPS</a></li>
-                  <li><a href="directadmin-vps.php" target="_self">DirectAdmin VPS</a></li>
-                  <li><a href="cpanel-vps.php" target="_self">cPanel VPS</a></li>
-                  <li><a href="linux-vps-hosting.php" target="_self">Linux VPS Hosting</a></li>
-                  <li><a href="high-performance-vps.php" target="_self">High Performance VPS</a> </li>
+                  <li><a href="/vps-server/" target="_self">VPS  Hosting</a></li>
+                  <li><a href="/vps-server/cyberpanel.php" target="_self">CyberPanel VPS</a></li>
+                  <li><a href="/vps-server/directadmin.php" target="_self">DirectAdmin VPS</a></li>
+                  <li><a href="/vps-server/cpanel.php" target="_self">cPanel VPS</a></li>
 
                 </ul>
               </div>
             </div>
             <div class="col-md-3 footer-cols">
               <div class="footer-options">
-                <h5>Server Solutions</h5>
+                <h5>Domain Services</h5>
                 <ul>
-                  <li><a href="cheap-web-hosting.php" target="_self">Cheap Web Hosting</a></li>
-                  <li><a href="cheap-wordpress-hosting.php" target="_self">Cheap WP Hosting</a></li>
-                  <li><a href="monthly-web-hosting.php" target="_self">Monthly Web Hosting</a></li>
-                  <li><a href="nodejs-hosting.php" target="_self">Nodejs Hosting</a></li>
-                  <li><a href="nvme-ssd-vps.php" target="_self">NVMe SSD VPS</a></li>
-                  <li><a href="ubuntu-vps-hosting.php" target="_self">Ubuntu VPS Hosting</a></li>
-                  <li><a href="windows-vps-hosting.php" target="_self">Windows VPS Hosting</a></li>
-                  <li><a href="wordpress-vps-hosting.php" target="_self">WordPress VPS Hosting</a>
-                  <li><a href="vps-hosting-netherlands.php" target="_self">Netherlands VPS </a>
-                  <li><a href="vps-hosting-india.php" target="_self">India VPS Hosting</a>
+                  <li><a href="/domain-registration.php" target="_self">Domain Name Search</a></li>
+                  <li class="nav-item dropdown footer-li-adjust">
+                    <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">Speed Test <span class="arrow-whites"><img
+                          src="assets/img/arrow-down-white.svg" alt=""></span></a>
+                    <ul class="dropdown-menu language-select-icon language-select-icon-ones">
+                      <li><a class="dropdown-item speed-test-item" href="https://youstable.ae/speed-in" target="blank"
+                          style="color:#292929;"><span class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><img
+                                    src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
+                          </span></a></li>
+                      <li><a class="dropdown-item speed-test-item" href="https://youstable.ae/speed-us" target="blank"
+                          style="color:#292929;"><span class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><img
+                                    src="assets/img/unitedstates.png" alt="flag-icon"></span> United State</p>
+                          </span></a></li>
+                      <li><a class="dropdown-item speed-test-item speed-test-item-one"
+                          href="https://youstable.ae/speed-nl" target="blank" style="color:#292929;"><span
+                            class="dropdown-menu-link-conatiner">
+                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span
+                                class="icon-flags-country"><span class="icon-flags-country"><span
+                                    class="icon-flags-country"><img src="assets/img/netherlandss.png"
+                                      alt="flag-icon"></span> Netherlands</p>
+                          </span></a></li>
 
 
-
-                    <!-- <li><a href="#">Speed Test</a></li> -->
+                    </ul>
+                  </li>
                 </ul>
               </div>
               <div class="footer-options">
                 <h5>Tutorials</h5>
                 <ul>
-                  <li><a href="">Wordpress Tutorial</a></li>
+                  <li><a href="https://youstable.ae/blog/?s=wordpress">Wordpress Tutorial</a></li>
                   <li><a href="https://www.youtube.com/c/YouStable" target="_self">YouStable Academy</a></li>
-                  <li><a href="https://www.youstable.com/manage/submitticket.php?step=2&deptid=2"
+                  <li><a href="https://youstable.com/manage/submitticket.php?step=2&deptid=2"
                       target="_self">Customer Support</a></li>
                   <li><a href="https://www.youstable.com/blog/knowledgebase/" target="_self">Knowledge Base</a></li>
+                  <li><a href="https://youstable.com/brand-assets" target="_self">Brand Assets</a></li>
                   <!-- <li><a href="brand-assets.php">Brand Assets</a></li> -->
                 </ul>
               </div>
@@ -121,19 +137,19 @@
               <div class="footer-options">
                 <h5>My Account</h5>
                 <ul>
-                  <li><a href="https://www.youstable.com/manage/register.php" target="_self">Create Account</a></li>
-                  <li><a href="https://www.youstable.com/manage/index.php/login" target="_self">Client Login</a></li>
-                  <li><a href="https://www.youstable.com/manage/index.php/password/reset" target="_self">Forget
+                  <li><a href="https://youstable.com/manage/register.php" target="_self">Create Account</a></li>
+                  <li><a href="https://youstable.com/manage/index.php/login" target="_self">Client Login</a></li>
+                  <li><a href="https://youstable.com/manage/index.php/password/reset" target="_self">Forget
                       Password</a></li>
                 </ul>
               </div>
               <div class="footer-options">
                 <h5>Policies</h5>
                 <ul>
-                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
-                  <li><a href="terms-condition.php">Terms of Service</a></li>
-                  <li><a href="fair-usage-policy.php"> Fair usage Policy</a></li>
-                  <li><a href="refund-policy.php">Refund Policy</a></li>
+                  <li><a href="/privacy-policy.php">Privacy Policy</a></li>
+                  <li><a href="/terms-condition.php">Terms of Service</a></li>
+                  <li><a href="/fair-usage-policy.php"> Fair usage Policy</a></li>
+                  <li><a href="/refund-policy.php">Refund Policy</a></li>
                 </ul>
               </div>
             </div>
@@ -142,32 +158,15 @@
                 <h5>Company</h5>
                 <ul>
                   <li><a href="about-us.php">About YouStable</a></li>
-                  <li><a href="our-team.php">Our Team</a></li>
-                  <li><a href="data-center.php">Data Center</a></li>
-
-                  <li class="nav-item dropdown footer-li-adjust">
-                    <a class="dropdown-toggle speed-test" role="button" data-bs-toggle="dropdown" aria-expanded="false">Speed Test <span class="arrow-whites"><img src="assets/img/arrow-down-white.svg" alt=""></span></a>
-                    <ul class="dropdown-menu language-select-icon language-select-icon-ones">
-                      <li><a class="dropdown-item speed-test-item" href="https://lg-in.defaultserver.net/" target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
-                          </span></a></li>
-                      <li><a class="dropdown-item speed-test-item" href="https://lg-us.defaultserver.net/" target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/unitedstates.png" alt="flag-icon"></span> United State</p>
-                          </span></a></li>
-                      <li><a class="dropdown-item speed-test-item speed-test-item-one" href="https://lg-nl.defaultserver.net/" target="blank" style="color:#292929;"><span class="dropdown-menu-link-conatiner">
-                            <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><span class="icon-flags-country"><span class="icon-flags-country"><img src="assets/img/netherlandss.png" alt="flag-icon"></span> Netherlands</p>
-                          </span></a></li>
-
-
-                    </ul>
-                  </li>
+                  <li><a href="team.php">Our Team</a></li>
+                  <li><a href="network-and-datacenter.php">Data Center</a></li>
 
                   <li><a href="career.php">Career<span class="we-r-hiring btn-yellow">We're Hiring!</span></a></li>
                   <li><a href="http://t.ly/1trC" target="_self">Client Reviews</a></li>
-                  <li><a href="https://www.youstable.com/blog/" target="_self">Official Blog</a></li>
+                  <li><a href="https://youstable.ae/blog/" target="_self">Official Blog</a></li>
                   <li><a href="contact-us.php">Contact Us</a></li>
-                  <li><a href="https://www.youstable.com/sitemap.xml" target="_self">Sitemap</a></li>
-                  <li><a href="https://www.youstable.com/manage/submitticket.php?step=2&deptid=2" target="_self">Abuse
+                  <li><a href="https://www.youstable.ae/sitemap.xml" target="_self">Sitemap</a></li>
+                  <li><a href="https://youstable.com/manage/submitticket.php?step=2&deptid=2" target="_self">Abuse
                       Report</a></li>
                 </ul>
               </div>
@@ -175,7 +174,7 @@
                 <h5>Affiliates</h5>
                 <ul>
                   <li><a href="https://partner.youstable.com/signup.php" target="_self">Become an affiliate</a></li>
-                  <li><a href="https://partner.youstable.com/" target="_self">Affiliate Login</a></li>
+                  <li><a href="https://partner.youstable.com" target="_self">Affiliate Login</a></li>
                 </ul>
               </div>
             </div>
@@ -198,7 +197,7 @@
           </div>
           <div>
             <li class="nav-item dropdown footer-li-adjust">
-              <a class="nav-link dropdown-toggle header-links footer-li-a footer-li-a1" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span class="world-globe"><img src="assets/img/world-wide-white.png" alt=""></span>Select Country <span class="arrow-white"><img src="assets/img/arrow-down-white.svg" alt=""></span></a>
+              <a class="nav-link dropdown-toggle header-links footer-li-a footer-li-a1" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span class="world-globe"><img src="assets/img/world-wide-white.png" alt=""></span>DUBAI <span class="arrow-white"><img src="assets/img/arrow-down-white.svg" alt=""></span></a>
               <ul class="dropdown-menu language-select-icon language-select-icon-one">
                 <li><a class="dropdown-item first-shared footer-adjust" href="https://www.youstable.com/" target="blank"><span class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/unitedstates.png" alt="flag-icon"></span> Global</p>
@@ -206,13 +205,10 @@
                 <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.in/" target="blank"><span class="dropdown-menu-link-conatiner">
                       <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/india-f.png" alt="flag-icon"></span> India</p>
                     </span></a></li>
-                <li><a class="dropdown-item first-shared footer-adjust" href="https://youstable.ae/" target="blank"><span class="dropdown-menu-link-conatiner">
-                      <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/uaee.png" alt="hosting-icon"></span> UAE</p>
+                <li><a class="dropdown-item first-shared footer-adjust" href="https://www.youstable.com/srilanka/" target="blank"><span class="dropdown-menu-link-conatiner">
+                      <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/uaee.png" alt="hosting-icon"></span>Sri Lanka</p>
                     </span></a></li>
-                <!-- <li><a class="dropdown-item first-shared-one footer-adjust" href="https://www.youstable.com/Srilanka"   target="blank" style="border-bottom:0px;"><span class="dropdown-menu-link-conatiner">
-                        <p class="dropdown-menu-main-nav nav-font nav-font-one"><span class="icon-flags-country"><img src="assets/img/sri-lanka.png" alt="hosting-icon"></span> SriLanka</p>
-                      </span></a></li>
- -->
+
               </ul>
             </li>
           </div>
@@ -223,36 +219,6 @@
         </div>
       </div>
       <div class="col-lg-6">
-        <!-- <div class="d-flex justify-content-end remove-f" style="position: relative;left: -44px;">
-          <div class="lang-img">
-            <img src="assets/img/select-lang-img.png" alt="paid" />
-          </div>
-          <div class="lang-content">
-            <p class="text-white">Local Language Support<br>HINDI | ENGLISH</p>
-            <div class="select-countries mt-3">
-              <div class="input-group lang">
-                
-                <li class="nav-item dropdown find-lang bg-white list-unstyled">
-                  <a class="nav-link dropdown-toggle   drop-after arrow-down-footer" href="" role="button"
-                    data-bs-toggle="dropdown" aria-expanded="false">
-                    <span class="input-group-text bg-white image-outer globe-icon" id="basic-addon1"><img
-                        src="assets/img/world-wide.png" alt=""></span>
-                    IN
-                  </a>
-                  <ul class="dropdown-menu language-select-icon">
-                    <li><a class="dropdown-item lang-uae" href="https://youstable.ae/" target="_self"
-                        style="border-bottom:0px;"><span class="icon-drop"><img src="assets/img/uaee.png"
-                            alt="hosting-icon"></span> UAE</a></li>
-                    <li><a class="dropdown-item lang-uae" href="https://www.youstable.com/srilanka/" target="_self"
-                        style="border-bottom:0px;"><span class="icon-drop"><img src="assets/img/sri-lanka.png"
-                            alt="hosting-icon"></span> Sri Lanka</a></li>
-
-                  </ul>
-                </li>
-              </div>
-            </div>
-          </div>
-        </div> -->
       </div>
     </div>
   </div>
@@ -262,8 +228,8 @@
   <div class="text-center pb-3">
     <p class="footer-end-texts text-center text-white mb-1">© 2015 - 2024 QLOUDIN Technologies Pvt Ltd. All Rights
       Reserved</p>
-    <p class="affiliated text-white m-0"> <a href="accept-usage-policy.php" class="affiliated text-white m-0">Acceptable
-        Usage Policy</a> | <a href="affiliate-terms.php" class="affiliated text-white m-0">Affiliate Terms and
+    <p class="affiliated text-white m-0"> <a href="/accept-usage-policy.php" class="affiliated text-white m-0">Acceptable
+        Usage Policy</a> | <a href="/affiliate-terms.php" class="affiliated text-white m-0">Affiliate Terms and
         Conditions</a> </p>
   </div>
 </footer>

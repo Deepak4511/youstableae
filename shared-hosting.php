@@ -15,16 +15,16 @@ include('inc/header.php');
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/NVMeSSD-Drive.svg" alt="ssd"></span>1-click script installs
+                                        src="assets/img/icons/Single-click-script-installs.svg" alt="ssd"></span>1-click script installs
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/easy-to-manage.svg" alt="manage"></span>Top notch security</li>
+                                        src="assets/img/icons/Top-notch-security.svg" alt="manage"></span>Top notch security</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/migration.svg" alt="migration"></span>Easy to use control panel</li>
+                                        src="assets/img/icons/Easy-to-use-control-panel.svg" alt="migration"></span>Easy to use control panel</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/24x7.svg" alt="support"></span>Daily Backups
+                                        src="assets/img/icons/" alt="support"></span>Daily Backups
                             </li>
                         </ul>
                     </div>
@@ -47,7 +47,7 @@ include('inc/header.php');
         <h2 class="server-heading shared-heading-plan">Get Best Shared Web Hosting Plans that fits your Ambitions</h2>
         <p class="server-title choose">Select the optimal and budget-friendly hosting plan that aligns perfectly with your needs.</p>
     </div>
-    <?php include 'inc/' ?>
+    <?php include 'inc/sharedWpPlans.php' ?>
 </section>
 
 
@@ -114,7 +114,7 @@ include('inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
+                            <img src="assets/img/features/99.9-Server-Uptime.svg" alt="speed-web-server">
                             <h5 class="ay-heading">99.9% Server Uptime</h5>
                             <p class="ay-title m-0 w-100">No need to worry about website performance. Our services include a 99.9% uptime guarantee, ensuring your website remains live and error-free for your valuable customers.
                             </p>
@@ -155,7 +155,7 @@ include('inc/header.php');
                         data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
                         aria-selected="true">
                         <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/nvme-ssd-1.svg" alt="migration"></span>Fast Nvme SSD Storage</li>
+                                    src="assets/img/icons/nvme-ssd-1.svg" alt="migration"></span>Fast Nvme SSD Storage</li>
                     </button>
                 </p>
             </div>
@@ -165,7 +165,7 @@ include('inc/header.php');
                         data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
                         aria-selected="false">
                         <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/optimized-servers.svg" alt="migration"></span>Optimized Servers
+                                    src="assets/img/icons/optimized-servers.svg" alt="migration"></span>Optimized Servers
                         </li>
                     </button>
                 </p>
@@ -176,7 +176,7 @@ include('inc/header.php');
                         data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
                         aria-selected="false">
                         <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/advanced-control-panel.svg"
+                                    src="assets/img/icons/advanced-control-panel.svg"
                                     alt="migration"></span>Advanced Control Panel
                         </li>
                     </button>
@@ -188,7 +188,7 @@ include('inc/header.php');
                         data-bs-target="#pills-uptime" type="button" role="tab" aria-controls="pills-uptime"
                         aria-selected="false">
                         <li class="color-black-1"><span class="text-dark dot"><img
-                                    src="assets/img/newImages/guaranteed-uptime.svg" alt="migration"></span>Guaranteed
+                                    src="assets/img/icons/guaranteed-uptime.svg" alt="migration"></span>Guaranteed
                             Uptime</li>
                     </button>
                 </p>

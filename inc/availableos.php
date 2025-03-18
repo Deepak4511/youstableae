@@ -15,27 +15,27 @@
       <div class="row">
         <div class="col-md-2_5 server-cols mb-2">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/almalinux.svg" alt="open cart" class="">
+            <img src="../assets/img/almalinux.svg" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-2_5 server-cols mb-2">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/rocky.svg" alt="open cart" class="">
+            <img src="../assets/img/centos-2.png" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-2_5 server-cols mb-2">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/ubuntu.svg" alt="open cart" class="">
+            <img src="../assets/img/ubuntu.svg" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-2_5 server-cols mb-2">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/debian-vps.svg" alt="open cart" class="">
+            <img src="../assets/img/debian-vps.svg" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-2_5 server-cols mb-2">
           <div class="bg-lt-blacks">
-            <img src="assets/img/servers/windows.svg" alt="open cart" class="">
+            <img src="../assets/img/windows.svg" alt="open cart" class="">
           </div>
         </div>
         
