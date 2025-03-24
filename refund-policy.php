@@ -15,7 +15,7 @@ include ('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="our-team-image floatings" src="assets/img/heroImg/Refund-Policy.png" alt="Banner"
+                <img class="our-team-image floatings" src="/assets/img/heroImg/refund-policy.png" alt="Banner"
                     srcset="">
             </div>
         </div>

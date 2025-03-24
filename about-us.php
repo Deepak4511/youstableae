@@ -17,7 +17,7 @@ include ('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/newImages/ABOUT-27.png"
+                <img class="banner_img floatings" src="/assets/img/heroImg/About-Dubai’s-Most-Popular-Web-Hosting-Provider.png"
                     alt="Banner" srcset="">
             </div>
         </div>
@@ -28,8 +28,8 @@ include ('inc/header.php');
 <section class="about-us">
     <div class=" container">
         <div class="row">
-            <div class="col-md-6">
-                <img class="about-image about-team-pic w-100" src="assets/img/newImages/innovative-team-image-50.png"
+            <div class="col-md-6 text-center">
+                <img class="about-image about-team-pic w-100" src="assets/img/aboutimg/an-innovative-team .png"
                     alt="about" srcset="">
             </div>
             <div class="col-md-6" id="right-content">
@@ -81,7 +81,7 @@ include ('inc/header.php');
                 <div class="col-md-3 cols">
                     <div class="about-feature about-headings">
                         <div class="about-feature-img">
-                            <img src="assets/img/newImages/It's-all-about-customer.svg" alt="ssd-storage">
+                            <img src="/assets/img/icons/about-customer.svg" alt="ssd-storage">
                         </div>
 
                         <h5 class="ay-heading about-headings">It's all about customer</h5>
@@ -94,7 +94,7 @@ include ('inc/header.php');
                 <div class="col-md-3 cols-awesome-youstable">
                     <div class="about-feature about-headings">
                         <div class="about-feature-img">
-                            <img src="assets/img/newImages/Respect.svg" alt="ssl-certificate">
+                            <img src="/assets/img/icons/Respect.svg" alt="ssl-certificate">
                         </div>
 
                         <h5 class="ay-heading about-headings">Respect</h5>
@@ -107,7 +107,7 @@ include ('inc/header.php');
                 <div class="col-md-3 cols-awesome-youstable">
                     <div class="about-feature about-headings">
                         <div class="about-feature-img">
-                            <img src="assets/img/newImages/Knowledge-Sharing.svg" alt="speed-web-server">
+                            <img src="/assets/img/icons/Knowledge-Sharing.svg" alt="speed-web-server">
                         </div>
 
                         <h5 class="ay-heading">Knowledge Sharing</h5>
@@ -120,7 +120,7 @@ include ('inc/header.php');
                 <div class="col-md-3 cols-awesome-youstable">
                     <div class="about-feature about-headings ">
                         <div class="about-feature-img">
-                            <img src="assets/img/newImages/Independence-From-Heart!.svg" alt="speed-web-server">
+                            <img src="/assets/img/icons/Independence-From-Heart!.svg" alt="speed-web-server">
                         </div>
 
                         <h5 class="ay-heading about-headings">Independence From Heart!</h5>
@@ -149,8 +149,8 @@ include ('inc/header.php');
                 <p class="about-paras">We offer high standard performance, committed server uptime which is backed by our dedicated team of heroes and these things made YouStable is among fastest growing web hosting providers.
                 </p>
             </div>
-            <div class="col-md-6">
-                <img class="about-image w-100" src="assets/img/newImages/WEB-HOSTING-PROVIDER-28.png" alt="about"
+            <div class="col-md-6 text-center">
+                <img class="about-image w-100" src="/assets/img/aboutimg/Most-Popular-Web-Hosting-Provider.png" alt="about"
                     srcset="">
             </div>
         </div>
@@ -163,7 +163,7 @@ include ('inc/header.php');
         <div class="aim-bg-yellow">
             <div class="row align-items-center" id="about">
                 <div class="col-md-6">
-                    <img class="aim-about-img" src="assets/img/newImages/OUR-AIM-image52.png" alt="about" srcset="">
+                    <img class="aim-about-img" src="/assets/img/aboutimg/Our-Aim.png" alt="about" srcset="">
                 </div>
                 <div class="col-md-6">
                     <h2 class="heading-our-aim" style="padding-bottom: 14px;">What Is Our Aim?</h2>

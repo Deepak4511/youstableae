@@ -68,7 +68,7 @@ include('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/heroImg/India's-best-web-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/best-Web-Hosting-in-Dubai.png" alt="Banner">
             </div>
         </div>
     </div>
@@ -96,7 +96,7 @@ include('inc/header.php');
                             <p class="per_month">/month</p>
                         </div>
 
-                        <a href="dedicated-servers.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
+                        <a href="/dedicated-servers/"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
 
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
@@ -152,7 +152,7 @@ include('inc/header.php');
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
                                 AED 50.0/month</span></p>
-                        <a href="vps-hosting.php"><button class="btn-purple exploreplan-btn" type="submit">Explore Plans</button></a>
+                        <a href="/vps-server/"><button class="btn-purple exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <i class="fa-solid fa-check"></i>
@@ -199,7 +199,7 @@ include('inc/header.php');
                         </div>
                         <p class="regular-price regular-indian-price">Regular price<span class="cross-price">
                                 AED 21.0/month</span></p>
-                        <a href="shared-hosting.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
+                        <a href="/shared-hosting.php"><button class="btn-yellow exploreplan-btn" type="submit">Explore Plans</button></a>
                         <div class="hosting_specification">
                             <div class="d-flex gap-2 specifications">
                                 <i class="fa-solid fa-check"></i>
@@ -488,7 +488,7 @@ include('inc/serverTechnologies.php');
                             AED 25
                             <small>/month</small>
                         </h3>
-                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                        <a href="https://youstable.ae/vps-server/"> <button class="btn w-100 view-btn fw-blod">
                                 VIEW OPTIONS</button></a>
                     </div>
                 </div>
@@ -522,7 +522,7 @@ include('inc/serverTechnologies.php');
                             AED 3
                             <small>/year</small>
                         </h3>
-                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                        <a href="https://youstable.ae/domain-registration"> <button class="btn w-100 view-btn fw-blod">
                                 VIEW OPTIONS</button></a>
                     </div>
                 </div>
@@ -539,7 +539,7 @@ include('inc/serverTechnologies.php');
                             AED 6
                             <small>/month</small>
                         </h3>
-                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                        <a href="https://youstable.ae/wordpress-hosting"> <button class="btn w-100 view-btn fw-blod">
                          VIEW OPTIONS</button></a>
                     </div>
                 </div>
@@ -556,7 +556,7 @@ include('inc/serverTechnologies.php');
                             AED 7
                             <small>/month</small>
                         </h3>
-                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">VIEW OPTIONS</button></a>
+                        <a href="https://youstable.ae/cpanel-hosting"> <button class="btn w-100 view-btn fw-blod">VIEW OPTIONS</button></a>
                     </div>
                 </div>
             </div>
@@ -571,7 +571,7 @@ include('inc/serverTechnologies.php');
                             AED 12
                             <small>/month</small>
                         </h3>
-                        <a href="/offshore-web-hosting.php"> <button class="btn w-100 view-btn fw-blod">
+                        <a href="https://youstable.ae/python-hosting"> <button class="btn w-100 view-btn fw-blod">
                                 VIEW OPTIONS</button></a>
                     </div>
                 </div>

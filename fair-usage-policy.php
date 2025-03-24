@@ -1,5 +1,5 @@
 <?php
-$page = 'Our Team';
+$page = 'fair-usage-policy';
 include ('inc/header.php');
 ?>
 

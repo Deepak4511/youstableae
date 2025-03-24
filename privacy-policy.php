@@ -1,5 +1,5 @@
 <?php
-$page = 'Our Team';
+$page = 'privacy-policy';
 include ('inc/header.php');
 ?>
 

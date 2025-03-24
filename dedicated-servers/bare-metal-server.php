@@ -1,5 +1,5 @@
 <?php
-$page = 'dedicated-servers';
+$page = 'bare-metal';
 include('../inc/header.php');
 ?>
 
@@ -10,18 +10,19 @@ include('../inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content margin-top dedicated-margin">
           <p class="experience"> 5% Discount first annual purchase</p>
-          <h1 class="Banner-Heading padding-heading robust">Experience the power of a secure, scalable, and high-speed network architecture with award-winning, trusted Tier III Data Center Providers in Dubai. Enjoy blazing fast bare Metal Server hosting in Dubai with 24/7 dedicated support, and affordable prices for your online success.</p>
+          <h1 class="Banner-Heading padding-heading">High Performance Bare Metal Server in Dubai</h1>
+          <p class="Banner-title">Experience the power of a secure, scalable, and high-speed network architecture with award-winning, trusted Tier III Data Center Providers in Dubai. Enjoy blazing fast bare Metal Server hosting in Dubai with 24/7 dedicated support, and affordable prices for your online success.</p>
           <div class="d-flex gap-3 lists-hosting">
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img
                   src="../assets/img/icons/1-IPv4-IP-Address.svg" alt="tick" class="tick-square">Full Control</li>
-              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/Support-Auto-Updates.svg" alt="tick"
+              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/Zero-Setup-Fee.svg" alt="tick"
                   class="tick-square">Zero Setup Fee</li>
             </ul>
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img src="../assets/img/icons/US-NL-&-India-Locations.svg"
                   alt="tick" class="tick-square">Dubai Data Center</li>
-              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/Multiple-Server-Location.svg"
+              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/Windows-&-Linux.svg"
                   alt="tick" class="tick-square">Windows & Linux OS</li>
             </ul>
           </div>
@@ -31,7 +32,7 @@ include('../inc/header.php');
         <!-- <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p> -->
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/heroImg/High-Performance-Bare-Metal-Server.png" alt="Banner"
+        <img class="banner_img floatings" src="/assets/img/heroImg/High-Performance-Bare-Metal-Server.png" alt="Banner"
           srcset="">
       </div>
     </div>
@@ -73,7 +74,7 @@ include('../inc/header.php');
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_dedicated">
-              <img src="../assets/img/icons/advanced-control-panel.svg" alt="ssl-certificate">
+              <img src="../assets/img/icons/perfomance.svg" alt="ssl-certificate">
               <div class="border-box">
                 <h5 class="ay-heading">Best Price-Performance Ratio</h5>
                 <p class="ay-title dedicate-content">We provide high-quality servers at competitive prices by leveraging discounted Intel and AMD components, optimizing server loads, and efficient self-owned data center management.</p>
@@ -84,7 +85,7 @@ include('../inc/header.php');
             <div class="feature_cols_dedicated">
               <img src="../assets/img/icons/uptime.svg" alt="speed-web-server">
               <div class="border-box">
-                <h5 class="ay-heading">99.95% Uptime</h5>
+                <h5 class="ay-heading">99.99% Uptime</h5>
                 <p class="ay-title dedicate-content">YouStable's dedicated server comes with Multiple Dubai Data Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
               </div>
             </div>
@@ -112,7 +113,7 @@ include('../inc/header.php');
         </div>
         <div class="col-md-3 server-cols">
           <div class="bg-lt-blacks">
-            <img src="../assets/img/" alt="open cart" class="">
+            <img src="../assets/img/centos-2.png" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-3 server-cols">
@@ -183,7 +184,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link active teb-bg-purple" id="pills_tab_1" data-bs-toggle="pill"
             data-bs-target="#FcPanel_tab" type="button" role="tab" aria-controls="FcPanel_tab" aria-selected="true">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/nvme-ssd-1.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/cpannel.svg"
                   alt="migration"></span>cPanel</li>
           </button>
         </p>
@@ -193,7 +194,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_2" data-bs-toggle="pill"
             data-bs-target="#DirectAdmin_tab" type="button" role="tab" aria-controls="DirectAdmin_tab"
             aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/optimized-servers.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/direct-admin.svg"
                   alt="migration"></span>DirectAdmin
             </li>
           </button>
@@ -204,7 +205,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_3" data-bs-toggle="pill" data-bs-target="#CyberPanel_tab"
             type="button" role="tab" aria-controls="CyberPanel_tab" aria-selected="false">
             <li class="color-black-1"><span class="text-dark dot"><img
-                  src="../assets/img/advanced-control-panel.svg" alt="migration"></span>CyberPanel
+                  src="../assets/img/cyber-pannel.svg" alt="migration"></span>CyberPanel
             </li>
           </button>
         </p>
@@ -213,7 +214,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link teb-bg-purple" id="pills_tab_4" data-bs-toggle="pill" data-bs-target="#CentOs_tab"
             type="button" role="tab" aria-controls="CentOs_tab" aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/guaranteed-uptime.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/centos-web-pannel.svg"
                   alt="migration"></span>CentOs Web
               Panel</li>
           </button>

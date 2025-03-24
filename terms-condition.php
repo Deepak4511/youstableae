@@ -1,5 +1,5 @@
 <?php
-$page = 'Our Team';
+$page = 'terms-condition';
 include('inc/header.php');
 ?>
 

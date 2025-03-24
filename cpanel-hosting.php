@@ -1,5 +1,5 @@
 <?php
-$page = 'Home';
+$page = 'cpanel-hosting';
 include('inc/header.php');
 ?>
 
@@ -9,7 +9,8 @@ include('inc/header.php');
         <div class="row reverse">
             <div class="col-md-6">
                 <div class="banner-left-content ">
-                    <p class="experience"></p>
+                    <p class="experience"> Up To 70% Off On cPanel Hosting
+</p>
                     <h1 class="Banner-Heading padding-heading">Best & Secure cPanel Hosting in Dubai.</h1>
                     <p class="Banner-title">Empower your digital success effortlessly by harnessing our Affordable cPanel hosting in Dubai. Our hosting service offers blazing-fast speeds, cutting-edge security tools, and dependable uptime, ensuring you have full control over your website.</p>
                     <div class="d-flex gap-3 lists-hosting">

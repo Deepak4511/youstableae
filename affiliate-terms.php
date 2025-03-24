@@ -1,5 +1,5 @@
 <?php
-$page = '';
+$page = 'affiliate-terms';
 include ('inc/header.php');
 ?>
 
@@ -17,7 +17,7 @@ include ('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="our-team-image floatings" src="assets/img/newImages/Affiliate-usage-Policy-49.png"
+                <img class="our-team-image floatings" src="/assets/img/heroImg/youStable-affiliate-policy.png"
                     alt="Banner" srcset="">
             </div>
         </div>

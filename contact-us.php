@@ -15,9 +15,8 @@ include ('inc/header.php');
                         services solution for successful personal and business websites.</p>
                 </div>
                 </div>
-            </div>
             <div class="col-md-6">
-                <img class="w-100 banner_img about-image floatings" src="assets/img/contact-us-image.png" alt="Banner"
+                <img class="w-100 banner_img about-image floatings" src="assets/img/heroImg/contact-us.png" alt="Banner"
                     srcset="">
             </div>
         </div>
@@ -85,7 +84,7 @@ include ('inc/header.php');
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="assets/img/youstable-contact.png" class="your-image" alt="youstable-image" />
+                    <img src="assets/img/Enjoy-top-rated-hosting-support.png" class="your-image" alt="youstable-image" />
                 </div>
                 <div class="col-lg-6">
                     <div class="your-content-style">
@@ -104,7 +103,6 @@ include ('inc/header.php');
 
                         </div>
                     </div>
-                    <img src="assets/img/line-decoration.png" class="line-decorationn" />
                     <div class="d-flex align-items-start gap-2 contact-mail">
                         <div><img src="assets/img/email-address-one.png" class="phone-yellow one-yellow" alt="contact">
                         </div>

@@ -60,7 +60,7 @@ include('inc/header.php');
 </style>
 
 <section class="banner-sec share-bg">
-    <div class=" container">
+    <div class=" container" id="domain_section">
         <div class="row align-items-start reverse-column">
             <div class="col-md-6 domain-wid">
                 <div class="banner-left-content margin-top dedicated-margin domain-reg">
@@ -91,7 +91,7 @@ include('inc/header.php');
                 </div>
             </div>
             <div class="col-md-6">
-                <img class="domain-reg-img floatings" src="assets/img/domain-hero-image.png" alt="Banner" srcset="">
+                <img class="domain-reg-img floatings" src="/assets/img/heroImg/Search-&-Register-a-Domain-Name.png" alt="Banner" srcset="">
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@ include('inc/header.php');
                 <div class="col-md-4">
                 <div class="domain-card text-center p-5">
                         <h2>.CO.IN</h2>
-                        <p class="domain-content">CO.IN is a country code domain extension. Fulfill various business criteria's by using it.</p>
+                        <p class="domain-content mb-5">CO.IN is a country code domain extension. Fulfill various business criteria's by using it.</p>
                         <h1 class="domain-price">AED 21</h1>
                         <div class="">
                             <a href="#domain_section"><button class="domain-btn">Register</button></a>

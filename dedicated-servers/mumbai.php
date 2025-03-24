@@ -1,6 +1,7 @@
 <?php
-$page = 'dedicated-servers';
+$page = 'mumbai-dedicated';
 include('../inc/header.php');
+include ('../meta.php');
 ?>
 
 <section class="banner-sec share-bg">
@@ -13,19 +14,19 @@ include('../inc/header.php');
                     <p class="Banner-title p-0">Get Your Robust Fastest Dedicated Server in Mumbai with a Secured Full
                         Network and a high-performance server. YouStable offers the latest technology and the latest
                         Dedicated Server and Bare Metal Solutions. We offer a low-cost dedicated server Mumbai with
-                        99.95 percent uptime and 24/7 Support.</p>
+                        99.99 percent uptime and 24/7 Support.</p>
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
-                            <li class="purple-text_dark mb-3"><img src="assets/img/newImages/Flexible-management.svg"
+                            <li class="purple-text_dark mb-3"><img src="../assets/img/icons/Server.svg"
                                     alt="tick" class="tick-square">Server in Mumbai</li>
-                            <li class="purple-text_dark"><img src="assets/img/newImages/Automatic-security-patches.svg"
+                            <li class="purple-text_dark"><img src="../assets/img/icons/NVMeSSD-Drive.svg"
                                     alt="tick" class="tick-square">NVMe SSD Drive</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3"><img
-                                    src="assets/img/newImages/One-click-app-installer.svg" alt="tick"
+                                    src="../assets/img/icons/Support-Auto-Updates.svg" alt="tick"
                                     class="tick-square">24*7 Technical Support</li>
-                            <li class="purple-text_dark"><img src="assets/img/newImages/Shared-SSH-access.svg"
+                            <li class="purple-text_dark"><img src="../assets/img/icons/1-IPv4-IP-Address.svg"
                                     alt="tick" class="tick-square">1 IPv4 Address</li>
                         </ul>
                     </div>
@@ -34,7 +35,7 @@ include('../inc/header.php');
                             class="fa-solid fa-arrow-right"></i></button></a>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/heroImg/Dedicated-Server-Hosting-in-Mumbai.png" alt="Banner" srcset="">
+                <img class="banner_img floatings" src="https://deepak.codingbrackets.dev/assets/img/heroImg/Dedicated-Server-Hosting-in-Mumbai.png" alt="Banner" srcset="">
             </div>
         </div>
     </div>
@@ -96,7 +97,7 @@ include('../inc/header.php');
                 <div class="row text-left cpanel-awe">
                     <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/icons/Free-domain-Registration.svg" alt="ssd-storage">
+                            <img src="../assets/img/features/customer-support.svg" alt="ssd-storage">
                             <h5 class="ay-heading">24/7 on-site Technical Support</h5>
                             <p class="ay-title m-0 w-100">The dedicated team of YouStable is prepared to resolve any
                                 issue, whether it arises beforehand or afterwards, with its high-quality 24/7 technical
@@ -105,7 +106,7 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/icons/NVMe-SSD-Powered-Servers.svg" alt="ssl-certificate">
+                            <img src="../assets/img/features/data-center.svg" alt="ssl-certificate">
                             <h5 class="ay-heading">Mumbai Data Center</h5>
                             <p class="ay-title m-0 w-100">With YouStable's Mumbai dedicated server Hosting, managing
                                 your entire hosting infrastructure with a seamless and user friendly interface.</p>
@@ -113,10 +114,10 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable mb-3">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/icons/99.95-Server-Uptime-Guarantee.svg" alt="speed-web-server">
-                            <h5 class="ay-heading">99.95% Uptime</h5>
+                            <img src="../assets/img/features/99.95-Uptime.svg" alt="speed-web-server">
+                            <h5 class="ay-heading">99.99% Uptime</h5>
                             <p class="ay-title m-0 w-100">YouStable's dedicated server comes with Multiple Indian Data
-                                Centers, ensuring an impressive 99.95% uptime guarantee for maximum reliability.</p>
+                                Centers, ensuring an impressive 99.99% uptime guarantee for maximum reliability.</p>
                         </div>
                     </div>
                 </div>
@@ -143,7 +144,7 @@ include('../inc/header.php');
         </div>
         <div class="col-md-3 server-cols">
           <div class="bg-lt-blacks">
-            <img src="../assets/img/" alt="open cart" class="">
+            <img src="../assets/img/centos-2.png" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-3 server-cols">
@@ -214,7 +215,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link active teb-bg-purple" id="pills_tab_1" data-bs-toggle="pill"
             data-bs-target="#FcPanel_tab" type="button" role="tab" aria-controls="FcPanel_tab" aria-selected="true">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/nvme-ssd-1.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/cpannel.svg"
                   alt="migration"></span>cPanel</li>
           </button>
         </p>
@@ -224,7 +225,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_2" data-bs-toggle="pill"
             data-bs-target="#DirectAdmin_tab" type="button" role="tab" aria-controls="DirectAdmin_tab"
             aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/optimized-servers.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/direct-admin.svg"
                   alt="migration"></span>DirectAdmin
             </li>
           </button>
@@ -235,7 +236,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_3" data-bs-toggle="pill" data-bs-target="#CyberPanel_tab"
             type="button" role="tab" aria-controls="CyberPanel_tab" aria-selected="false">
             <li class="color-black-1"><span class="text-dark dot"><img
-                  src="../assets/img/advanced-control-panel.svg" alt="migration"></span>CyberPanel
+                  src="../assets/img/cyber-pannel.svg" alt="migration"></span>CyberPanel
             </li>
           </button>
         </p>
@@ -244,7 +245,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link teb-bg-purple" id="pills_tab_4" data-bs-toggle="pill" data-bs-target="#CentOs_tab"
             type="button" role="tab" aria-controls="CentOs_tab" aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/guaranteed-uptime.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/centos-web-pannel.svg"
                   alt="migration"></span>CentOs Web
               Panel</li>
           </button>
@@ -365,6 +366,11 @@ You can easily add or remove all upgrades and addons by sending an email to our 
 <?php
 include('../inc/customer-reviews.php');
 ?>
+
+<?php include('../inc/chatUs.php') ?>
+
+
+<?php include ('../inc/footer.php') ?>
 
 
 

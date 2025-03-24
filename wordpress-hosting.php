@@ -1,5 +1,5 @@
 <?php
-$page = 'Home';
+$page = 'wordpress-hosting';
 include('inc/header.php');
 ?>
 
@@ -9,7 +9,7 @@ include('inc/header.php');
         <div class="row reverse">
             <div class="col-md-6">
                 <div class="banner-left-content ">
-                    <p class="experience"></p>
+                    <p class="experience"> WordPress Hosting</p>
                     <h1 class="Banner-Heading padding-heading">Robust & Secure Managed WordPress Hosting in Dubai</h1>
                     <p class="Banner-title">Take your Website to next level with Best & Affordable WordPress Hosting in Dubai. Optimized WordPress LSCache enabled, Imunify360 Security and Faster Website Performance.</p>
                     <div class="d-flex gap-3 lists-hosting">
@@ -169,21 +169,21 @@ include('inc/header.php');
                 <div class="row">
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/icons/" alt="uptime">
+                            <img src="assets/img/icons/1-click-instant-install.svg" alt="uptime">
                             <h5 class="ay-heading">1-click Instant Install</h5>
                             <p class="ay-title">Enhancing WordPress for beginners and making it even easier to use with a convenient one-click Softaculous app installation feature, tailored to the preferences of users in Dubai.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/icons/" alt="refund">
+                            <img src="assets/img/icons/premium-themes-&-plugins.svg" alt="refund">
                             <h5 class="ay-heading">1Premium Themes & Plugins</h5>
                             <p class="ay-title">There are over 5,000+ ready-to-use Premium WP themes and Plugins available,Choose the one that suits you Best.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="assets/img/icons/" alt="support">
+                            <img src="assets/img/icons/wordPress-maintenance.svg" alt="support">
                             <h5 class="ay-heading">Hassle-Free WordPress Maintenance</h5>
                             <p class="ay-title">With automated backups, updates, Easy to import WordPress and migrate to YouStable with A Single Click, Get WordPress websites with full control.</p>
                         </div>
@@ -199,6 +199,7 @@ include('inc/header.php');
 include('inc/serverTechnologies.php');
 ?>
 
+<?php include 'inc/sharedWpComparisonPlans.php'; ?>
 
 <?php
 include('inc/customer-reviews.php');

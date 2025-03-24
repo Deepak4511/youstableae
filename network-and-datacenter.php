@@ -1,7 +1,53 @@
 <?php
-$page = 'data-center';
+$page = 'datacenter';
 include ('inc/header.php');
 ?>
+
+<style>
+    .view-btn {
+    border: 1px solid #ffc235;
+    background-color: #ffc235;
+    color: #000;
+    padding: 12px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.view-btn:hover {
+    background: #292929;
+    color: #fff;
+}
+.badge-title{
+background: #f2eeff;
+    border-radius: 44px;
+    width: fit-content;
+    margin: auto;
+    padding: 4px 48px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.infra_partner{
+    border: 1px solid #EBEEF2;
+    box-shadow: 0px 1px 4px 0px #0000000D;
+    padding: 2px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.partners {
+display: grid;
+grid-template-columns: repeat(5, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 6px;
+grid-row-gap: 6px;
+}
+@media(max-width:768px){
+    .partners {
+grid-template-columns: repeat(2, 1fr);
+} 
+}
+</style>
 
 
 <section class="banner-sec share-bg data-centers">
@@ -21,7 +67,7 @@ include ('inc/header.php');
         
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/data-center-hero.png" alt="Banner"
+        <img class="banner_img floatings" src="/assets/img/heroImg/Data-Center-Location.png" alt="Banner"
           srcset="">
       </div>
     </div>
@@ -35,7 +81,7 @@ include ('inc/header.php');
            
             <div class="col-lg-5">
                 <div class="globe-image">
-                    <img src="assets/img/global-hosting-locations.jpg" alt="image" class=""/>                    
+                    <img src="/assets/img/Global-Hosting-Locations.png" alt="image" class=""/>                    
                 </div>
             </div>
             <div class="col-lg-6">
@@ -115,16 +161,17 @@ include ('inc/header.php');
     <h2 class="server-heading shared-heading-plan">Infrastructure Partners</h2>
   </div>
   <div class="container">
-<div class="row">
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
-    <div class="col-md-2"><img src="" alt="" class=""></div>
+<div class="partners">
+    <div class="infra_partner"><img src="/assets/img/features/cloudflare.png" alt="" class=""></div>
+    <div class="infra_partner"><img src="/assets/img/features/cloudlinux.png" alt="" class=""></div>
+    <div class="infra_partner"><img src="/assets/img/features/cpannel.png" alt="" class=""></div>
+    <div class="infra_partner"><img src="/assets/img/features/softaculous.png" alt="" class="w-100 m-2"></div>
+    <div class="infra_partner"><img src="/assets/img/features/litespeed.png" alt="" class="w-100 m-2"></div>
+    <div class="infra_partner"><img src="/assets/img/features/bitninja.png" alt="bitninja security" class="w-100 m-2"></div>
+    <div class="infra_partner"><img src="/assets/img/features/direct-admin.png" alt="" class="w-100 m-2"></div>
+    <div class="infra_partner"><img src="/assets/img/features/intel.png" alt="" class="w-100 m-2"></div>
+    <div class="infra_partner"><img src="/assets/img/features/imunify360.png" alt="" class="w-100"></div>
+    <div class="infra_partner"><img src="/assets/img/features/jetbackup.png" alt="" class="w-100 m-2"></div>
 
 </div>
 </div>
@@ -195,6 +242,7 @@ include ('inc/header.php');
                         
                         
                         <p class='plan-resource-desc mb-4'>Experience the simplest & most cost-effective solution for launching and expanding your website.</p>
+                        <p class="text-muted mb-3">Starting at</p>
                         <h3 class='mt-4 hosting-price mb-3'>
                         AED 6
                             <small>/month</small>

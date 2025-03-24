@@ -1,5 +1,5 @@
 <?php
-$page = '';
+$page = 'cyberpanel-vps';
 include('../inc/header.php');
 ?>
 
@@ -15,16 +15,16 @@ include('../inc/header.php');
                     <div class="d-flex gap-3 lists-hosting">
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/NVMeSSD-Drive.svg" alt="ssd"></span>OpenLiteSpeed Optimised VPS
+                                        src="../assets/img/icons/OpenLiteSpeed-Optimised-VPS.svg" alt="ssd"></span>OpenLiteSpeed Optimised VPS
                             </li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/easy-to-manage.svg" alt="manage"></span>Easy Scalability for Resources</li>
+                                        src="../assets/img/icons/Easy-to-scale.svg" alt="manage"></span>Easy Scalability for Resources</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/migration.svg" alt="migration"></span>1 IPv4 Dedicated IP</li>
+                                        src="../assets/img/icons/IPv4-Dedicated-IP.svg" alt="migration"></span>1 IPv4 Dedicated IP</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/24x7.svg" alt="support"></span>Dubai Data Center
+                                        src="../assets/img/icons/dubai-data-center.svg" alt="support"></span>Dubai Data Center
                             </li>
                         </ul>
                     </div>
@@ -197,20 +197,20 @@ include('../inc/header.php');
 
         <div class="d-flex justify-content-between">
             <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+                <img src="../assets/img/yellow-circle.png" class="floating yellow-circle">
             </span>
             <span class="text-end">
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
+                <img src="../assets/img/cloud-circle.png" class="movingcloud">
             </span>
         </div>
         <?php include('../animate-text.php') ?>
 
         <div class="d-flex justify-content-between">
             <span class="text-start">
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
+                <img src="../assets/img/cloud-wave.png" class="movingclouds">
             </span>
             <span class="text-end">
-                <img src="assets/img/wave-yellow.png" class="floating">
+                <img src="../assets/img/wave-yellow.png" class="floating">
             </span>
         </div>
 
@@ -230,7 +230,7 @@ include('../inc/header.php');
                 <div class="row text-left g-4">
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/NVMessd.svg" alt="ssd-storage">
+                            <img src="../assets/img/features/Free-and-Open-Source.svg" alt="ssd-storage">
                             <h5 class="ay-heading">
                             Free and Open Source</h5>
                             <p class="ay-title m-0 w-100">CyberPanel, the pioneering open-source control panel that offers seamless management of LiteSpeed Enterprise and OpenLiteSpeed. Easily handle your hosting needs with CyberPanel</p>
@@ -238,14 +238,14 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/SSL-certificate.svg" alt="ssl-certificate">
+                            <img src="../assets/img/features/Click-CyberPanel-Install.svg" alt="ssl-certificate">
                             <h5 class="ay-heading">1-Click CyberPanel Install</h5>
                             <p class="ay-title m-0 w-100">Provide one-click installation for popular frameworks such as WordPress, Joomla, Drupal, Mautic, and various other content management system (CMS) platforms.</p>
                         </div>
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/LiteSpeed-Web-Server.svg" alt="speed-web-server">
+                            <img src="../assets/img/features/Cache-LiteSpeed.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                             Cache LiteSpeed</h5>
                             <p class="ay-title m-0 w-100">The LSCache plugin is unparalleled on a Litespeed server. It ensures fast loading times for your websites through efficient page and server-level caching.
@@ -254,7 +254,7 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/site-migration.svg" alt="speed-web-server">
+                            <img src="../assets/img/features/Unlimited-installations.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Unlimited installations</h5>
                             <p class="ay-title m-0 w-100">There are no limitations on the number of installations or websites within the free CyberPanel control panel.
                             </p>
@@ -262,7 +262,7 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/daily-backup.svg" alt="speed-web-server">
+                            <img src="../assets/img/features/Easy-Monitoring.svg" alt="speed-web-server">
                             <h5 class="ay-heading">
                             Easy Monitoring</h5>
                             <p class="ay-title m-0 w-100">You have the ability to initiate a restart of the LiteSpeed server or suspend the troublesome website. You can also monitor your CPU, memory, and disk usage at any time. </p>
@@ -270,7 +270,7 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="assets/img/features/Expert-Support.svg" alt="speed-web-server">
+                            <img src="../assets/img/features/Let's-Encrypt-SSL.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Let's Encrypt SSL</h5>
                             <p class="ay-title m-0 w-100">CyberPanel VPS Hosting has default auto-renewal activated to ensure that your Certificates are automatically renewed before they expire!</p>
                         </div>

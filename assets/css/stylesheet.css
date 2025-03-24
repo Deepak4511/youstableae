@@ -61,7 +61,7 @@ section.banner-sec.share-bg-four {
 }
 img.banner_img {
   margin-right: 0 !important;
-  width: 90%;
+  width: 80%;
   display: block;
   margin: auto;
   /*margin-bottom: 20px;*/
@@ -513,6 +513,7 @@ span.text-dark.dot img {
 }
 ul.banner-list.list-unstyled img {
   margin-right: 10px;
+  width: 40px;
 }
 
 span.awesome-q {
@@ -1298,7 +1299,6 @@ button.nav-link.active.teb-bg-purple {
   font-size: 17px;
   font-weight: 500;
   line-height: 30px;
-  padding: 20px 0px;
   width: 100%;
 }
 button.nav-link.teb-bg-purple {
@@ -1306,7 +1306,6 @@ button.nav-link.teb-bg-purple {
   font-size: 17px;
   font-weight: 600;
   line-height: 30px;
-  /*padding: 10px 40px;*/
   color: #292929;
   width: 100%;
 }
@@ -6045,7 +6044,7 @@ img.affiliate-image.about-hero-image.floatings {
   display: block;
 }
 img.about-image.w-100 {
-  width: 94% !important;
+  width: 75% !important;
   height: 100%;
   object-fit: cover;
   border-radius: 20px;
@@ -6136,6 +6135,7 @@ p.about-paras {
   display: block;
   margin: auto;
   width: 27%;
+  border-radius: 10px;
 }
 
 .history-year h3 {
@@ -6205,7 +6205,7 @@ h2.heading.Popular-Web {
   padding-bottom: 16px;
 }
 img.aim-about-img {
-  width: 82%;
+  width: 60%;
   display: block;
   margin: auto;
 }
@@ -6358,6 +6358,7 @@ span.icon-drop img {
   margin-right: 5px;
   width: 100% !important;
   height: 100%;
+  border-radius: 8px;
 }
 
 /* FAQ new designs */
@@ -6779,7 +6780,7 @@ h2.lobal-hosting-locates {
     width: 95%;
     margin: auto;
     display: block;
-    border-radius: 224px 224px 0px 0px;
+    border-radius: 250px 250px 0px 0px;
     border: 3px solid #ffc235;
 }
 

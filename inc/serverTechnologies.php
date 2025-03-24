@@ -11,42 +11,42 @@
                     <div class="row autoplay autoplay_slider">
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/directadmin.png" alt="directadmin">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/directadmin.png" alt="directadmin">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/CloudLinux.png" class="cloud-linux" alt="CloudLinux">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/CloudLinux.png" class="cloud-linux" alt="CloudLinux">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/encrypt.png" alt="encrypt">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/encrypt.png" alt="encrypt">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/bitninja-security.png" alt="directadmin">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/bitninja-security.png" alt="directadmin">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/imunify360.png" class="cloud-linux" alt="CloudLinux">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/imunify360.png" class="cloud-linux" alt="CloudLinux">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/litespeed.png" alt="encrypt">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/litespeed.png" alt="encrypt">
                             </div>
                         </div>
                             <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/softaculous.png" alt="encrypt">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/softaculous.png" alt="encrypt">
                             </div>
                         </div>
                         <div class="col-lg-3 server-cols">
                             <div class="bg-lt-black">
-                                <img src="assets/img/virtualizor.png" alt="encrypt">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/virtualizor.png" alt="encrypt">
                             </div>
                         </div>
                         </div>

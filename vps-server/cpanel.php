@@ -1,6 +1,6 @@
 
 <?php
-$page = '';
+$page = 'cpanel-vps';
 include('../inc/header.php');
 ?>
 
@@ -25,18 +25,18 @@ include('../inc/header.php');
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
                                         src="../assets/img/icons/uptime.svg" alt="migration"></span>99.99% Uptime</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="../assets/img/icons/" alt="support"></span>cPanel/WHM Optimized VPS
+                                        src="../assets/img/icons/cPanel-control-panel.svg" alt="cPanel/WHM"></span>cPanel/WHM Optimized VPS
                             </li>
                         </ul>
                     </div>
                 </div>
                 <a href="#explore"><button class="btn-yellow btn-explore-plan"> Explore <i
                             class="fa-solid fa-arrow-right"></i></button></a>
-                <p class="Money-Back-Guarantee"><img src="assets/img/icons/ic-shield.png" alt="shield">30-Day Money-Back
+                <p class="Money-Back-Guarantee"><img src="../assets/img/icons/ic-shield.png" alt="shield">30-Day Money-Back
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/cloud-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="../assets/img/heroImg/Robust-cPanel-VPS-Hosting.png" alt="Banner">
             </div>
         </div>
     </div>
@@ -262,7 +262,7 @@ include('../inc/header.php');
                     </div>
                     <div class="col-md-4 cols-awesome-youstable">
                         <div class="feature_cols_desciption">
-                            <img src="../assets/img/features/" alt="speed-web-server">
+                            <img src="../assets/img/features/Seamless-Scaling.svg" alt="speed-web-server">
                             <h5 class="ay-heading">Seamless Scaling</h5>
                             <p class="ay-title m-0 w-100">Scale your cPanel VPS hosting seamlessly, effortlessly meeting growing demands and maximizing performance, ensuring smooth and scalable hosting experience.</p>
                         </div>

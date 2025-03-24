@@ -11,11 +11,8 @@ include ('inc/header.php');
       <div class="col-md-6">
         <div class="banner-left-content">
           <!--<p class="experience">Experience</p>-->
-          <h1 class="earn-twohundred"> <strong class="usa-host-price">Earn Up To $60</strong> <strong
-              class="indian-host-price">Earn Up To ₹5000</strong> <br> Per Sign Up!</h1>
-          <p class="Banner-title p-0 banner-content-affiliate" style="margin-top: 36px;">We have an incredible
-            opportunity to create an additional income stream for you. Just bring Us a Customer and get a chance to Earn
-            a Bonus. Become a Part of our YouStable Team Now!
+          <h1 class="earn-twohundred">Join and Gain Through Industry’s Best Affiliate Program by YouStable</h1>
+          <p class="Banner-title p-0 banner-content-affiliate" style="margin-top: 36px;">Here with an idea to build another source of income for you all. Refer a customer to YouStable and get paid!
           </p>
           <div class="d-flex gap-3 lists-hosting affiliate-btn">
             <a href="https://partner.youstable.com/" target="_self"><button class="btn-yellow btn-login">Login <i
@@ -27,7 +24,7 @@ include ('inc/header.php');
         </div>
       </div>
       <div class="col-md-6">
-        <img class="banner_img floatings" src="assets/img/affiliates-hero-image.png" alt="Banner" srcset="">
+        <img class="banner_img floatings" src="https://deepak.codingbrackets.dev/assets/img/heroImg/affiliates.png" alt="Banner" srcset="">
       </div>
     </div>
   </div>
@@ -187,7 +184,7 @@ include ('inc/header.php');
         <div class="row text-left">
           <div class="col-md-4 cols">
             <div class="feature_cols_dedicated">
-              <img src="assets/img/features/free-join.png" alt="ssd-storage">
+              <img src="assets/img/features/free-to-join.svg" alt="ssd-storage">
               <div class="border-box">
                 <h5 class="ay-heading">Free To Join </h5>
                 <p class="ay-title dedicate-content">Sign up with us for free! Fill in your credentials, get a unique tracking code for use, and start your earning today!</p>
@@ -196,7 +193,7 @@ include ('inc/header.php');
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_dedicated">
-              <img src="assets/img/features/realtime.png" alt="ssl-certificate">
+              <img src="assets/img/features/realtime-tracking.svg" alt="ssl-certificate">
               <div class="border-box">
                 <h5 class="ay-heading">Realtime Tracking</h5>
                 <p class="ay-title dedicate-content">We track your activities and ensure you get what you deserve through our reliable and real-time latest technology.
@@ -206,7 +203,7 @@ include ('inc/header.php');
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_dedicated">
-              <img src="assets/img/affiliate.png" alt="speed-web-server">
+              <img src="assets/img/features/affiliate-manager.svg" alt="speed-web-server">
               <div class="border-box">
                 <h5 class="ay-heading">Affiliate Manager</h5>
                 <p class="ay-title dedicate-content">We are here to support in every stage of your journey. There’s nothing that can stop you from being the best Affiliate marketer!
@@ -237,7 +234,7 @@ include ('inc/header.php');
 
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
-              <img src="assets/img/features/attractive.png" alt="ssl-certificate">
+              <img src="assets/img/features/Attractive-Affiliate-Banner.svg" alt="ssl-certificate">
               <h5 class="ay-heading">Attractive Affiliate Banner</h5>
               <p class="ay-title m-0 w-100">YouStable provides you with eye-catching hosting sale banners, increasing customer engagement to buy hosting from your referrals
               </p>
@@ -265,7 +262,7 @@ include ('inc/header.php');
         <div class="row text-left mt-4">
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
-              <img src="assets/img/features/auto-backup-11.png" alt="Free Migration">
+              <img src="assets/img/features/Auto-Backup-Maintains.svg" alt="Free Migration">
               <h5 class="ay-heading">Auto-Backup Maintains File Security</h5>
               <p class="ay-title m-0 w-100">If you become lost or puzzled by the terms and conditions, read our knowledge base or get in touch with our support
               </p>
@@ -281,7 +278,7 @@ include ('inc/header.php');
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_desciption">
-              <img src="assets/img/features/speed-web-server.png" alt="speed-web-server">
+              <img src="assets/img/features/LiteSpeed-Web-servers.svg" alt="speed-web-server">
               <h5 class="ay-heading">LiteSpeed Web servers</h5>
               <p class="ay-title m-0 w-100">GYouStable's robust affiliate dashboard offers you the most in-depth tracking, earnings monitoring, and customised click programmes</p>
             </div>

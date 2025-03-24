@@ -1,5 +1,5 @@
 <?php
-$page = '';
+$page = 'vps-server';
 include('../inc/header.php');
 ?>
 
@@ -10,6 +10,10 @@ include('../inc/header.php');
 
 p.hosting-price {
     margin: 8px 0 0 0;
+}
+
+.upper-card {
+    padding: 45px 26px;
 }
 </style>
 
@@ -33,7 +37,7 @@ p.hosting-price {
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
-                                        src="../assets/img/icons/" alt="migration"></span>Dubai Data Center</li>
+                                        src="../assets/img/icons/dubai-data-center.svg" alt="migration"></span>Dubai Data Center</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
                                         src="../assets/img/icons/migration.svg" alt="support"></span>Free Migration
                             </li>
@@ -42,7 +46,7 @@ p.hosting-price {
                 </div>
                 <a href="#explore"><button class="btn-yellow btn-explore-plan"> Explore <i
                             class="fa-solid fa-arrow-right"></i></button></a>
-                <p class="Money-Back-Guarantee"><img src="assets/img/icons/ic-shield.png" alt="shield">30-Day Money-Back
+                <p class="Money-Back-Guarantee"><img src="/assets/img/icons/ic-shield.png" alt="shield">30-Day Money-Back
                     Guarantee</p>
             </div>
             <div class="col-md-6">
@@ -51,7 +55,6 @@ p.hosting-price {
         </div>
     </div>
 </section>
-
 
 
 
@@ -411,7 +414,7 @@ p.hosting-price {
                     </div>
                     <div class="col-md-4 cols-aws-you">
                         <div class="left-cols-awesome">
-                            <img src="../assets/img/newImages/" alt="refund">
+                            <img src="../assets/img/icons/DDOS.svg" alt="refund">
                             <h5 class="ay-heading">DDoS Protected</h5>
                             <p class="ay-title">With our top-notch DDoS-protected VPS servers, you can take proactive measures to safeguard your website against malevolent and undesirable attacks, which deplete your resources through illegitimate traffic.</p>
                         </div>
@@ -434,20 +437,20 @@ p.hosting-price {
 
         <div class="d-flex justify-content-between">
             <span class="text-start">
-                <img src="assets/img/yellow-circle.png" class="floating yellow-circle">
+                <img src="../assets/img/yellow-circle.png" class="floating yellow-circle">
             </span>
             <span class="text-end">
-                <img src="assets/img/cloud-circle.png" class="movingcloud">
+                <img src="../assets/img/cloud-circle.png" class="movingcloud">
             </span>
         </div>
         <?php include('../animate-text.php') ?>
 
         <div class="d-flex justify-content-between">
             <span class="text-start">
-                <img src="assets/img/cloud-wave.png" class="movingclouds">
+                <img src="../assets/img/cloud-wave.png" class="movingclouds">
             </span>
             <span class="text-end">
-                <img src="assets/img/wave-yellow.png" class="floating">
+                <img src="../assets/img/wave-yellow.png" class="floating">
             </span>
         </div>
 

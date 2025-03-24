@@ -6,7 +6,7 @@
  </style>
 
  
-<section class="operating-sytems">
+<section class="operating-sytems mb-5">
   <div class="container">
     <div class="text-center">
       <h2 class="Banner-Heading">Enhanced VPS Hosting with Powerful Operating Systems

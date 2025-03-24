@@ -2,11 +2,6 @@
 $page = 'python-hosting';
 include ('inc/header.php');
 ?>
-<style>
-    ul.banner-list.list-unstyled img {
-  width: 15%;
-}
-</style>
 
 
 <section class="banner-sec share-bg">
@@ -23,12 +18,12 @@ include ('inc/header.php');
                                     src="assets/img/icons/Terminal-access.svg" alt="tick" class="tick-square">
                                     Terminal Access enabled</li>
                             <li class="purple-text_dark color-black-1"><img
-                                    src="assets/img/icons/" alt="tick" class="tick-square">
+                                    src="assets/img/icons/latest-python-version.svg" alt="tick" class="tick-square">
                                     Latest Python Version</li>
                         </ul>
                         <ul class="banner-list list-unstyled">
                             <li class="purple-text_dark mb-3 color-black-1"><img
-                                    src="assets/img/icons/advanced-control-panel.svg" alt="tick" class="tick-square">
+                                    src="assets/img/icons/cPanel-control-panel.svg" alt="tick" class="tick-square">
                                     cPanel Control Panel</li>
                             <li class="purple-text_dark color-black-1"><img src="assets/img/icons/24x7.svg"
                                     alt="tick" class="tick-square">
@@ -38,7 +33,7 @@ include ('inc/header.php');
                 </div>
                 <a href="#explore"><button class="btn-yellow btn-explore-plan">Get Started Today <i
                             class="fa-solid fa-arrow-right"></i></button></a>
-                <p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back
+                <p class="Money-Back-Guarantee"><img src="assets/img/icons/ic-shield.png" alt="shield">30-Day Money-Back
                     Guarantee</p>
             </div>
             <div class="col-md-6">
@@ -192,7 +187,7 @@ include ('inc/header.php');
                     </div>
                 </div>
 
-                <a href="https://www.youstable.com/manage/order.php?currency=2&pid=23&billingcycle=triennially"
+                <a href="https://youstable.com/manage/order.php?currency=4&pid=23"
                     class="link-color-black indian-host-price" target="_self"><button class="button-buy">Buy
                         Now</button></a>
             </div>

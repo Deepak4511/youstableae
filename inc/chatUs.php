@@ -9,7 +9,7 @@
                 </div>
                 <div class="d-flex">
                     <div class="contact-hosting one">
-                        <img src="http://localhost/youstableaAe/assets/img/phone-call.png">
+                        <img src="https://deepak.codingbrackets.dev/assets/img/phone-call.png">
                     </div>
                     <div class="mb-4">
                         <a href="tel:+919616782253" class="contact-hosting one" data-toggle="tooltip"
@@ -18,7 +18,7 @@
                 </div>
                 <div class="d-flex">
                     <div class="contact-hosting one">
-                        <img src="http://localhost/youstableaAe/assets/img/Expert-Support.svg">
+                        <img src="https://deepak.codingbrackets.dev/assets/img/Expert-Support.svg">
                     </div>
                     <div class="mb-4">
                         <a href="javascript:void(Tawk_API.toggle())" class="contact-hosting one" data-toggle="tooltip"
@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="col-lg-6 support-rev">
-                <img class="thinking-girl support-imgs" src="http://localhost/youstableaAe/assets/img/support-new.png">
+                <img class="thinking-girl support-imgs" src="https://deepak.codingbrackets.dev/assets/img/support-new.png">
             </div>
         </div>
     </section>

@@ -746,48 +746,43 @@
 
                                     <div class="price-container share-set-pd">
                                         <p class="hosting-price indian-host-price indian-host-prices"><span
-                                                class="hin-rs">₹</span>49</p>
-                                        <p class="hosting-price usa-host-price usa-host-prices" style="display: none;"><span
-                                                class="hin-rs">$</span>0.60</p>
+                                                class="hin-rs">AED </span>6</p>
+
                                         <p class="per_month comp-table-year">/mo*</p>
                                     </div>
-                                    <a href="https://www.youstable.com/manage/order.php?currency=2&amp;pid=338&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=338"
                                         class="link-color-black indian-host-price" target="_self"><button
                                             class="btn-yellow exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
 
-                                    <a href="https://www.youstable.com/manage/order.php?currency=1&amp;pid=338&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=338"
                                         class="link-color-black usa-host-price" target="_self" style="display: none;"><button
                                             class="btn-yellow exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
                                 </div>
                                 <div class="bottom-option">
                                     <div class="price-container share-set-pd">
                                         <p class="hosting-price indian-host-price indian-host-prices"><span
-                                                class="hin-rs">₹</span>149</p>
-                                        <p class="hosting-price usa-host-price usa-host-prices" style="display: none;"><span
-                                                class="hin-rs">$</span>1.80</p>
+                                                class="hin-rs">AED </span>8</p>
                                         <p class="per_month comp-table-year">/mo*</p>
                                     </div>
-                                    <a href="https://www.youstable.com/manage/order.php?currency=2&amp;pid=339&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=339"
                                         class="text-white indian-host-price" target="_self"><button
                                             class="btn-purple exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
 
-                                    <a href="https://www.youstable.com/manage/order.php?currency=1&amp;pid=339&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=339"
                                         class="text-white usa-host-price" target="_self" style="display: none;"><button
                                             class="btn-purple exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
                                 </div>
                                 <div class="bottom-option">
                                     <div class="price-container share-set-pd">
                                         <p class="hosting-price indian-host-price indian-host-prices"><span
-                                                class="hin-rs">₹</span>209</p>
-                                        <p class="hosting-price usa-host-price usa-host-prices" style="display: none;"><span
-                                                class="hin-rs">$</span>2.60</p>
+                                                class="hin-rs">AED </span>11</p>
                                         <p class="per_month comp-table-year">/mo*</p>
                                     </div>
-                                    <a href="https://www.youstable.com/manage/order.php?currency=2&amp;pid=340&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=340"
                                         class="link-color-black indian-host-price" target="_self"><button
                                             class="btn-yellow exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
 
-                                    <a href="https://www.youstable.com/manage/order.php?currency=1&amp;pid=340&amp;billingcycle=triennially"
+                                    <a href="https://www.youstable.com/manage/order.php?currency=1&pid=340"
                                         class="link-color-black usa-host-price" target="_self" style="display: none;"><button
                                             class="btn-yellow exploreplan-btn comp-button-design" type="submit">Get Started </button></a>
                                 </div>

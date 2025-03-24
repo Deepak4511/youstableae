@@ -9,8 +9,8 @@
     <div class="row social-row ">
       <div class="col-md-4 wid-foot">
         <div class="footer-logo-content">
-          <img class="mb-3 footer-logo" src="http://localhost/youstableaAe/assets/img/logo-footer.png" alt="logo footer">
-          <img class=" footer-logo-mob" src="http://localhost/youstableaAe/assets/img/logo-footer-mob.png" alt="logo footer">
+          <img class="mb-3 footer-logo" src="https://deepak.codingbrackets.dev/assets/img/logo-footer.png" alt="logo footer">
+          <img class=" footer-logo-mob" src="https://deepak.codingbrackets.dev/assets/img/logo-footer-mob.png" alt="logo footer">
           <P class="text-white footer-title m-0">Trust Your Site to The Dubai’s #1 Leading Web Host. Hosted Over Thousands Websites Worldwide On YouStable Servers. Power Your Business Website With YouStable Dubai’s Affordable Web hosting Services And Meet Your Online Success!</P>
           <div class="mb-3">
             <P class="text-white footer-title m-0 p-0">CIN U72900UP2020PTC131271</P>
@@ -20,31 +20,31 @@
           <div class="d-flex gap-2">
 
             <div class="social">
-              <a href="https://twitter.com/YouStable" target="_self"><img src="http://localhost/youstableaAe/assets/img/twitter.svg"
+              <a href="https://twitter.com/YouStable" target="_self"><img src="https://deepak.codingbrackets.dev/assets/img/twitter.svg"
                   alt="twitter"></a>
             </div>
 
 
             <div class="social">
-              <a href="https://www.linkedin.com/company/youstable/" target="_self"><img src="http://localhost/youstableaAe/assets/img/linkeding.svg"
+              <a href="https://www.linkedin.com/company/youstable/" target="_self"><img src="https://deepak.codingbrackets.dev/assets/img/linkeding.svg"
                   alt="linkedin"> </a>
             </div>
 
 
             <div class="social">
-              <a href="https://facebook.com/YouStable" target="_self"> <img src="http://localhost/youstableaAe/assets/img/insta.svg" alt="facebook">
+              <a href="https://facebook.com/YouStable" target="_self"> <img src="https://deepak.codingbrackets.dev/assets/img/insta.svg" alt="facebook">
               </a>
             </div>
 
 
             <div class="social">
-              <a href="https://www.instagram.com/youstable/" target="_self"><img src="http://localhost/youstableaAe/assets/img/facebook.svg"
+              <a href="https://www.instagram.com/youstable/" target="_self"><img src="https://deepak.codingbrackets.dev/assets/img/facebook.svg"
                   alt="instagram"> </a>
             </div>
 
 
             <div class="social">
-              <a href="https://www.youtube.com/c/YouStable" target="_self"> <img src="http://localhost/youstableaAe/assets/img/youtube.svg"
+              <a href="https://www.youtube.com/c/YouStable" target="_self"> <img src="https://deepak.codingbrackets.dev/assets/img/youtube.svg"
                   alt="youtube"> </a>
             </div>
           </div>
@@ -65,9 +65,9 @@
                   <li><a href="/cpanel-hosting.php" target="_self"> cPanel Hosting</a></li>
                   <li><a href="/python-hosting.php" target="_self">Python Hosting</a></li>
                   <li><a href="/dedicated-servers/" target="_self"> Dedicated Server</a></li>
-                  <li><a href="dedicated-servers/cpanel.php" target="_self">cPanel Dedicated</a></li>
-                  <li><a href="dedicated-servers/bare-metal-server.php" target="_self">Bare Metal Server</a></li>
-                  <li><a href="dedicated-servers/mumbai.php" target="_self">Mumbai Dedicated Server</a></li>
+                  <li><a href="/dedicated-servers/cpanel.php" target="_self">cPanel Dedicated</a></li>
+                  <li><a href="/dedicated-servers/bare-metal-server.php" target="_self">Bare Metal Server</a></li>
+                  <li><a href="/dedicated-servers/mumbai.php" target="_self">Mumbai Dedicated Server</a></li>
                   
 
 

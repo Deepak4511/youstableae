@@ -1,10 +1,10 @@
-<?php  
+<?php
 
 $meta_data = [
-    'index' => [
-        'title' => "#1 India's Best Web Hosting | Fast, Easy Setup from @$0.6/mo",
-        'description' => "YouStable® Web Hosting Leader Since 2015 - Offers India's Best Web Hosting Plans with NVme SSD, LiteSpeed Web Servers, Free Domains, SSL, 24x7 Priority Support",
-        'keywords' => "web hosting, best web hosting, YouStable, NVme SSD, LiteSpeed Web Servers",
+    'Home' => [
+        'title' => "#1 Best Web Hosting in Dubai UAE▷Free Domain + SSL + CDN",
+        'description' => "#YouStable® Web Hosting Leader Since 2015 - Offers Dubai's Best Web Hosting Plans with NVme SSD, LiteSpeed Web Servers, Free Domains, SSL, 24x7 Priority Support",
+        'keywords' => "Web hosting plans in Dubai, hosting plans in Dubai, web hosting price in Dubai, Cheap web hosting Dubai, cheapest WordPress hosting Dubai, cheap web hosting for small business",
         'schema' => '
             <script type="application/ld+json">{
                 "@context": "https://schema.org",
@@ -81,412 +81,265 @@ $meta_data = [
                     "https://www.youtube.com/c/youstable"
                 ]
             }
-            </script>
-            <script type="application/ld+json">
-            {
-                "@context": "https://schema.org",
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Where is YouStable Located?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "YouStable is located in Lucknow, popularly known as the City of Nawabs, in India. In spite of its location, YouStable, with 4+ data centers worldwide, offers high-performing web hosting services across the globe."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can I upgrade my web hosting plan later?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, YouStable’s Web Hosting Plans are Highly Scalable, allowing users to easily upgrade web resources as needed by their websites."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Does YouStable provide different types of web hosting services?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, YouStable provides web hosting services from shared, WordPress, VPS to dedicated servers for storage and memory optimisation depending upon the specific needs of the individual and enterprise."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can I buy hosting without a domain name?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes! You can buy web hosting services without a Domain name. However, if you do not have a Domain then you can take advantage of our Yearly Hosting Plan and grab a free domain or else get your existing Domain Transfer to YouStable from your current Domain provider."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I Need Technical Knowledge to Use Web Hosting?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No! Even if you have Zero Technical knowledge of how to handle servers and manage websites, our dedicated expert staff will assist you with server configuration at all times."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How do I Know What kind of web hosting I need?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "If you want to start a new Blogging, Choose Shared Hosting services with minimum hosting requirements. However, if you still have concerns, then Connect with our Technical experts for friendly guidance."
-                        }
-                    }
-                ]
-            }
             </script>'
     ],
 
-  
 
-  
-  "about-us" => [
-    "title" => "YouStable® | About Us",
-    "description" => "Our company has been started with an aim to provide the best web hosting services in the market which everyone can afford to host their website on internet.",
-    "keywords" => "Unlimited web hosting plans in india, cheap web hosting india, unlimited hosting plans, Host Unlimited Websites, unlimited web hosting plans, Cheapest Web Hosting india, india Best Unlimited Web Hosting",
-             'og_image' => "https://www.youstable.com/assets/img/newImages/youstable-og.jpg",
-        'twitter_image' => "https://www.youstable.com/assets/img/newImages/youstable-og.jpg",
+
+
+    "cpanel-hosting" => [
+        "title" => "Buy Best Cheap cPanel Web Hosting In Dubai▷1- Click Setup",
+        "description" => "Buy Lightning-Fast & Cheapest cPanel Hosting in Dubai from YouStable. 2x Faster NVMe SSD Storage, LiteSpeed Web Servers, SSL, Free Domain Name, Daily Backups!",
+        "keywords" => "cheap cpanel hosting, cheapest cpanel hosting in Dubai, cpanel vps hosting, best cheap web hosting, Youstable",
         'schema' => '
-        {
-          "@context": "https://schema.org",
-          "@type": "Product",
-    "name": "Web Hosting",
-    "category": "Hosting",
-    "url": "https://www.YouStable.com",
-    "image": { "@type": "ImageObject", "url": "https://www.youstable.com/assets/img/logo_youstable.svg"},
-    "offers": {
+    <script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"Buy Lightning-Fast & Cheapest cPanel Hosting in Dubai from YouStable. 2x Faster NVMe SSD Storage, LiteSpeed Web Servers, SSL, Free Domain Name, Daily Backups!","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"259","lowprice":"159","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+    "wordpress-hosting" => [
+        "title" => "#1 Best Wordpress Hosting in Dubai▷Lightning-Fast Cheap",
+        "description" => "Hosting that's Built for WordPress - Buy Lightning-Fast Best and cheap WordPress Web Hosting in Dubai from YouStable. 2x Faster NVMe SSD Storage, LiteSpeed Web Servers, SSL.",
+        "keywords" => "best wordpress hosting, cheapest wordpress hosting Dubai, best wordpress hosting in Dubai, Affordable WordPress Hosting in Dubai, cheap wordpress hosting in Dubai, cheap wordpess web hosting Dubai",
+        'schema' => '<script type="application/ld+json">
+        {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"YouStable® Offers Optimized Fully Managed WordPress Hosting For Beginners & Agencies With Free Domain, SSL, CDN, 24x7 Support, Automatic WP Install & More!","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"249","lowprice":"139","seller":{"@type":"Organization","name":"YouStable"}}}
+        </script>'
+
+    ],
+    "vps-server" => [
+        "title" => "#1 Managed VPS Hosting in Dubai Full Root Access 24/7 Support",
+        "description" => "Easy to Use & Blazing Fast Best Managed VPS Hosting in Dubai with YouStable’s SSD VPS servers. Get Affordable VPS Hosting with 24/7 Support, 99.9% Uptime",
+        "keywords" => "Best Managed VPS Hosting, Best KVM VPS hosting in Dubai, Managed VPS Hosting Providers In Dubai, best vps hosting services, best linux vps hosting provider, cheap vps, Cheap VPS Hosting, cheap vps hosting in Dubai plans, Buy Managed VPS SSD Hosting Server with Expert Support, Cheap VPS Hosting Services",
+        'schema' => '
+         <script type="application/ld+json">
+      {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.ae/assets/img/youstable-logo-white.png","description":"Easy to Use & Blazing Fast Best Managed VPS Hosting in Dubai with YouStable’s SSD VPS servers. Get Affordable VPS Hosting with 24/7 Support, 99.9% Uptime","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"3529","lowprice":"899","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+    "shared-hosting" => [
+        "title" => "#1 Shared Hosting In Dubai▷Buy High Performance NVMe Hosting",
+        "description" => "Buy Premium & Affordable Shared Hosting in Dubai from YouStable. 2x Faster NVMe SSD Storage, LiteSpeed Web Servers, Free Domains, SSL, 24x7 Priority Support.",
+        "keywords" => "web hosting in Dubai cheap, cheap shared hosting, web hosting company Dubai, shared hosting plans, best shared hosting in Dubai, shared hosting provider in Dubai",
+        'schema' => '
+         <script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"YouStable® Web Hosting Leader Since 2015 - Offers Dubai’s Best Shared Hosting Plans with NVme SSD, LiteSpeed Web Servers, Free Domains, SSL, 24x7 Priority Support.","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"249","lowprice":"139","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+
+    "python-hosting" => [
+        "title" => "Buy Cheapest Python Hosting Dubai - 70% Instant Discount",
+        "description" => "Buy Lightning-Fast & Cheapest Python Hosting in Dubai from YouStable. Get All Python Web Hosting Features at The Lowest Price. Deploy your Python App Today.",
+        "keywords" => "host python, python web hosting, python server application, python hosting server, best python hosting",
+        'schema' => '
+        <script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"Buy Lightning-Fast & Cheapest Python Hosting in Dubai from YouStable. Get All Python Web Hosting Features at The Lowest Price. Deploy your Python App Today.","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"259","lowprice":"159","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+
+    "domain-registration" => [
+        "title" => "Cheap Domain Registration Dubai | Get FREE .com Domain Name ",
+        "description" => "Get 100% Totally FREE .com Domain Name with Cheap Hosting Plans. 24x7 Local Support to Grow Your Business Online. Cheap Domain Registration in Dubai, Start Now",
+        "keywords" => "domain registration Dubai, cheap in domain registration Dubai, domain registration and hosting, Cheap in domain registration Dubai, Best Domain Registrar, cheap .com domain registration, best domain provider in Dubai, free domain name",
+        'schema' => ''
+
+    ],
+
+    "directadmin-vps" => [
+        "title" => "Buy Best DirectAdmin VPS Hosting▷NVMe SSD, 50% OFF, Root Access",
+        "description" => "YouStable Offers Directadmin VPS Hosting with NVMe SSD Storage and 50% OFF, Deploy Faster. Buy DirectAdmin VPS Server Now at low price.",
+        "keywords" => " directadmin license, directadmin lifetime license, directadmin VPS hosting, directadmin demo, directadmin trial, directadmin pricing, vps hosting with directadmin panel",
+        'schema' => ''
+
+    ],
+
+    "dedicated-servers" => [
+        "title" => "Buy Affordable & Cheapest Dedicated Server Hosting In Dubai",
+        "description" => "Buy Best And Cheap Dedicated Server in Dubai with High-Performance CPUs, SSD-NVMe Memory, Windows or Linux OS, Full Root Access, 99.99% Network Uptime",
+        "keywords" => "cheap dedicated server Dubai, windows dedicated server Dubai, dedicated server price in Dubai, best dedicated server in Dubai, dedicated server hosting, managed dedicated server Dubai",
+        'schema' => '
+          <script type="application/ld+json">
+        {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://www.youstable.com/assets/img/youstable-logo-white.png","description":"Buy Best And Cheap Dedicated Server in Dubai with High-Performance CPUs, SSD-NVMe Memory, Windows or Linux OS, Full Root Access, 99.99% Network Uptime","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"47500","lowprice":"10694","seller":{"@type":"Organization","name":"YouStable"}}}
+        </script>'
+
+    ],
+
+    "cyberpanel-vps" => [
+        "title" => "#1 CyberPanel VPS Hosting Server - 1 Click Instant Install",
+        "description" => "Budget-Friendly CyberPanel VPS Server Solutions for Startups and Entrepreneurs from YouStable. Experience lightning-fast VPS hosting for your website today.",
+        "keywords" => "cyberpanel vps hosting, cyberpanel vps hosting, cheap cyberpanel vps hosting, cheapest cyberpanel hosting servers, youstable",
+        'schema' => ''
+
+
+    ],
+
+    "cpanel-vps" => [
+        "title" => "Buy cPanel VPS Hosting Plans - #1 VPS With cPanel Hosting",
+        "description" => "Get Online Today With YouStable Technology-Driven Cheapest cPanel Hosting Solutions. LiteSpeed Web Servers, You’re Covered by a 45-Day Money Back Guarantee!",
+        "keywords" => "cpanel vps hosting, cheapest vps hosting, vps hosting with cpanel, managed cpanel vps, cheap vps hosting with cpanel, cheapest vps hosting with cpanel",
+        'schema' => '
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "cPanel VPS",
+  "image": "https://youstable.ae/assets/images/youstable-cpanel-vps-hero.svg",
+  "description": "Get Online Today With YouStable Technology-Driven Cheapest cPanel Hosting Solutions. LiteSpeed Web Servers, You’re Covered by a 45-Day Money Back Guarantee!",
+  "brand": {
+    "@type": "Brand",
+    "name": "YouStable"
+  },
+  "sku": "YouStable cPanel VPS",
+  "offers": {
     "@type": "AggregateOffer",
-    "lowPrice": "1.20",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock"
-},
-    "brand": { "@type": "Brand", "name": "YouStable"},
-    "aggregateRating": {
+    "url": "https://youstable.ae/cpanel-vps",
+    "priceCurrency": "INR",
+    "lowPrice": "979",
+    "highPrice": "2469",
+    "offerCount": "1"
+  },
+  "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "ratingCount": "480",
+    "ratingValue": "4.7",
     "bestRating": "5",
-    "worstRating": "1.0"
+    "worstRating": "1",
+    "ratingCount": "156"
+  }
 }
-},
-       
+</script>'
 
-           
-          ]
-        }
-        '
-],
-
-  "affiliate" => [
-    "title" => "Best Web Hosting Affiliate Program | Earn upto $125/Sale",
-    "description" => "YouStable’s Best Web Hosting Affiliate Program Enable You to Monetize Traffic on Your Site through the Highest Referral Commissions in Industry up to $125/sale",
-    "keywords" => "web hosting affiliate program, web hosting affiliate programs in india, best web hosting affiliate programs, highest paying affiliate programs, highest paying affiliate programs with recurring commissions, highest paying hosting affiliate programs, highest paying web hosting affiliate programs, web hosting affiliate"
-
-  ],
-
-   "our-team" => [
-    "title" => "Our Team | YouStable Modern Web Hosting",
-    "description" => "",
-    "keywords" => ""
-
-  ],
-
-  "career" => [
-    "title" => "YouStable Career Opportunities",
-    "description" => "YouStable’s career page is designed to search for brilliant minds which can contribute in our vision of providing best in class hosting services at low cost.",
-    "keywords" => "Unlimited Hosting Plans, Host unlimited domains, best unlimited hosting plans, unlimited web hosting providers, Unlimited web hosting cPanel, Unlimited web hosting plans in India, Cheap unlimited web hosting, Cheap unlimited web hosting, YouStable, YouStable review"
-
-  ],
-
-  "contact-us" => [
-    "title" => "#1 India’s Best Web Hosting Plans - from YouStable ₹49/mo",
-    "description" => "",
-    "keywords" => ""
-
-  ],
-  "cpanel-hosting" => [
-    "title" => "Buy Best cPanel Web Hosting- Starts at ₹159/mo + Free Domain",
-    "description" => "Experience Fast, Best cPanel Hosting with YouStable! Get a Free .com Domain, 99.9% Uptime, and 24/7x365 Support. Choose the Best cPanel Plans Today!",
-    "keywords" => "cPanel hosting, cPanel web Hosting, best cPanel features, cheap cPanel hosting, Reliable cPanel Hosting, cPanel web hosting price, cPanel web hosting cost, cPanel web hosting free"
-
-  ],
-  "wordpress-hosting" => [
-    "title" => "Buy Best WordPress Hosting | Free Domain, NVMe SSD, Save 75%",
-    "description" => "YouStable® offers Affordable WordPress Hosting for Beginners & Agencies with Free Domain, SSL, CDN, 24x7 Support, Auto WP Install & More! Boost your site today!",
-    "keywords" => "Managed WordPress Hosting, Affordable WP Hosting Solutions, reliable wordpress hosting, Cheapest WordPress hosting, Cheapest WordPress Hosting India, Managed WordPress hosting Plans."
-
-  ],
-  "vps-hosting" => [
-    "title" => "Buy Best VPS Hosting | Powerfull KVM VPS Starting at $7/mo",
-    "description" => "YouStable offers Flat 50% Off with lightning-fast, Best VPS Hosting with NVMe SSD, 24/7 support, 99.99% uptime. Enjoy Dedicated Resources, 1Gbps network speed.",
-    "keywords" => "Best Managed VPS Hosting, Best KVM VPS hosting in india, Managed VPS Hosting Providers In India, best vps hosting services, best linux vps hosting provider, cheap vps, Cheap VPS Hosting, cheap vps hosting in india plans, Buy Managed VPS SSD Hosting Server with Expert Support, Cheap VPS Hosting Services"
-
-  ],
-  "shared-hosting" => [
-    "title" => "Buy Best Shared Web Hosting: $0.6/mo | Free Domain, NVMe SSD",
-    "description" => "YouStable Affordable Shared Hosting Comes with Free Domain, NVMe SSD, LiteSpeed, SSL, 24x7 Support, 99.9% Uptime. Hurry UP Buy Reliable Shared Hosting plan.",
-    "keywords" => "Affordable Shared Web Hosting, cheap shared hosting, Reliable shared hosting, best cheap shared hosting, best linux shared hosting plans."
-
-  ],
-
-  "python-hosting" => [
-    "title" => "Buy Best Python Hosting Plans - Just $3.25/Month + Free Domain",
-    "description" => "YouStable offers Reliable and Best cPanel Hosting Plans with 99.99% Uptime, NVMe SSD and 24/7x365 Support. Choose the Best cPanel Web Hosting Plans Today!",
-    "keywords" => "python hosting free, Best python hosting, python hosting India, cheap python hosting, free python hosting without credit card, best free python hosting, free python hosting flask, free python hosting Django"
-
-  ],
-
-  "domain-registration" => [
-    "title" => "Buy Cheap Domain Registration | Get FREE .com With 1 Year Hosting Plan ",
-    "description" => "Get 100% Totally FREE .com Domain Name with Web Hosting Plans. 24x7 Support to Grow Your Business Online. Cheap Domain Registar your Domain NOW.",
-    "keywords" => "domain registration india, cheap in domain registration india, domain registration and hosting, Cheap in domain registration India, Best Domain Registrar, cheap .com domain registration, best domain provider in india, free domain name"
-
-  ],
-  
-  "directadmin-vps" => [
-    "title" => "Buy Best DirectAdmin VPS Hosting▷NVMe SSD, 50% OFF, Root Access",
-    "description" => "YouStable Offers Directadmin VPS Hosting with NVMe SSD Storage and 50% OFF, Deploy Faster. Buy DirectAdmin VPS Server Now at low price.",
-    "keywords" => " directadmin license, directadmin lifetime license, directadmin VPS hosting, directadmin demo, directadmin trial, directadmin pricing, vps hosting with directadmin panel"
-
-  ],
-
-  "dedicated-servers" => [
-    "title" => "Buy Best Dedicated Servers | Fast & Secure, NVMe SSDs & 99.99% Uptime",
-    "description" => "Buy Best Dedicated Servers with 24x7 Support. Our Dedicated Servers Now Come with High Memory, NVMe SSD, Next Generation Processors, Full Root Access",
-    "keywords" => "Powerful Dedicated Hosting, Best Linux Dedicated Server Hosting in India, Fully Managed Dedicated Server Hosting, Best dedicated server hosting provider, Dedicated server hosting India, Dedicated Servers India, Premium Dedicated Hosting, cheap dedicated hosting"
-
-  ],
-
-  "cyberpanel-vps" => [
-    "title" => "Buy Best CyberPanel VPS Hosting▷PreInstalled Addons Worth $95",
-    "description" => "Get Started with Best CyberPanel VPS Hosting with Premium Addon free worth $95. 1-Click Installation with Flexible Configuration and NVMe SSD, 99.99% Uptime.",
-    "keywords" => "CyberPanel Hosting, CyperPanel Hosting Server, CyperPanel Server, Cheap CyberPanel Hosting, VPS With cyberpanel, cheap vps with cyberpanel"
-    
-
-  ],
-
-  "cpanel-vps" => [
-    "title" => "Buy Best cPanel VPS Hosting▷50% OFF, NVMe SSD, 99.99% Uptime",
-    "description" => "YouStable offers Affordable, Best cPanel VPS Hosting Server With 1-click installation with Flexible Configuration & Scalabale NVMe SSD Storage 99.99% Uptime",
-    "keywords" => "Best cPanel VPS, cPanel Hosting Server, cPanel Server, Cheap cPanel Hosting, VPS With cPanel, cheap VPS with cPanel"
-  
-   ],
-
-   "vps-hosting-india" => [
-    "title" => "VPS Hosting India | Buy Best VPS Server in India, NVMe SSD",
-    "description" => "Get Started with Best Indian VPS Hosting with NVMe SSD Drive, Free SSL, 24*7 Support. 1-Click Installation with Flexible Configuration and NVMe SSD, 99.99% Uptime.",
-    "keywords" => "Indian VPS Hosting, Indian VPS Hosting Server, VPS Hosting India Server, Cheap India VPS Hosting, VPS With cyberpanel in India, cheap vps with cyberpanel IN India"
-    
-
-  ],
-
-
-   "vps-hosting-netherlands" => [
-    "title" => "Netheralands VPS Hosting | Buy Best Netherlands VPS Server, NVMe SSD, Root Access",
-    "description" => "Discover the best Netherlands VPS Hosting with NVMe SSD Drive, Free SSL, 24*7 Support. 1-Click Installation with Flexible Configuration and NVMe SSD, 99.99% Uptime.",
-    "keywords" => "Netherlands VPS Hosting, Netherlands VPS Hosting Server, VPS Hosting Netherlands Server, Cheap Netherlands VPS Hosting, VPS With cyberpanel in Netherlands, cheap vps IN Netherlands"
-    
-
-  ],
-
-    "monthly-web-hosting" => [
-    "title" => "#1 Monthly Web Hosting Plans | Fast, 99.99% Uptime, NVMe SSD",
-    "description" => "Discover budget-friendly, month-to-month web hosting with NVMe SSD, FREE SSL, domain, and 99.99% uptime.",
-    "keywords" => "Monthly Web Hosting,Monthly web hosting plans, monthly hosting plans, pay monthly web hosting, best month to month web hosting, month to month wordpress hosting, cheap monthly web hosting, cheap monthly hosting plans, monthly domain hosting, web hosting for 1 month, cheap hosting for 1 month,Cheap web hosting per month"
-  
-   ],
-
-    "free-domain" => [
-    "title" => "100% Free Domain Name with Hosting | Register Free Domain Today",
-    "description" => "Get free domain with hosting for 1 year with 99.99% uptime and NVMe SSD. Enjoy premium plans that include free SSL, subdomains, and top-tier web hosting.",
-    "keywords" => "Free domain with hosting and domain name,Totally free domain name,Free domain and hosting for 1 year,100% free domains,free domain, free domain name, free domain hosting"  
-
-   ],
-
-    "nodejs-hosting" => [
-    "title" => "Buy Cheap cPanel Node.js Hosting | HOST & CODE Today",
-    "description" => "Experience top-rated cPanel Node.js hosting with unmatched speed, security, and stability. Enjoy free installs, daily backups, 24/7 support, CDN, and LiteSpeed Cache.",
-    "keywords" => ""  
-
-   ],
-
-"cheap-web-hosting" => [
-    "title" => "Cheap Web Hosting | Best Affordable Hosting Now at $1.20/mo",
-    "description" => "YouStable offers Best and Cheap Web hosting packages. Host website with fast NVMe SSD. Get secure, reliable hosting solutions with 99.99% uptime.",
-    "keywords" => ""  
-
-   ],
-
-"cheap-wordpress-hosting" => [
-    "title" => "Cheap WordPress Hosting |Affordable WP Hosting Now at $1.20/mo",
-    "description" => "YouStable offers cheap WordPress hosting with 99.99% uptime, NVMe SSD, free domain, and a price freeze guarantee. Create your WP site in 5 minutes!",
-    "keywords" => "wordpress web hosting,cheap wordpress hosting,cheap wordpress website hosting, best cheap managed wordpress hosting,cheap website hosting wordpress"  
-
-   ],
-
-"nvme-ssd-vps" => [
-    "title" => "Best NVMe SSD VPS Hosting | 99.99% Uptime, Fast & Reliable",
-    "description" => "Experience high-performance NVMe SSD VPS hosting with top 99.99% uptime, security, and stability. Enjoy reliable performance and unmatched stability today!",
-    "keywords" => "nvme ssd vps,ssd vps hosting,best cheap ssd vps hosting,ssp vps hosting with 99.99% uptime,Nvme ssd vps hosting price",
-     'schema' => '
-<script type="application/ld+json">{
-    "@context": "https://schema.org",
-    "@graph": {
-        "0": {
-            "@type": "Product",
-            "name": "NVMe SSD VPS",
-            "category": "VPS",
-            "url": "https://www.youstable.com/nvme-ssd-vps",
-            "image": { "@type": "ImageObject", "url": "https://www.youstable.com/assets/img/NVMe-SSD-VPS-Hosting-hero.png"},
-            "offers": {
-                "@type": "AggregateOffer",
-                "lowPrice": "7",
-                "priceCurrency": "USD",
-                "availability": "https://schema.org/InStock"
-            },
-            "brand": { "@type": "Brand", "name": "YouStable"},
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "378",
-                "bestRating": "5",
-                "worstRating": "1.0"
-            }
-        },
-        "2": {
-            "@type": "WebPage",
-            "breadcrumb": {
-                "@type": "BreadcrumbList",
-                "itemListElement": [
-                    {
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "NVMe SSD VPS",
-                        "item": "https://www.youstable.com/nvme-ssd-vps"
-                    }
-                ]
-            }
-        }
-    }
-}</script>' 
-
-   ],
-
-"free-rdp" => [
-    "title" => "Free RDP Server wth Admin Access | Fast, Reliable, 99.99% Uptime",
-    "description" => "Looking for best free rdp hosting? YouStable offers best free RDP plans with 24/7 support, free instant setup, scalable servers, and NVMe SSD drives.",
-    "keywords" => "free rdp server, Free RDP vps hosting price, best free rdp plans, rdp vps, free rdp hosting, rdp server"  
-
-   ],
-
-"datacenter" => [
-    "title" => "Network and Datacenters | YouStable®",
-    "description" => "Discover YouStable's fast, reliable, and high-performing servers in secure datacenters across the USA, India and Europe.",
-    "keywords" => ""  
-
-   ],
-
-"domain-registration" => [
-    "title" => "Buy a Affordable domain name | Find Your Perfect Domain",
-    "description" => "Buy Affordable Domain name from YouStable. Choose your desire web hosting plan and register a FREE domain name within no time.",
-    "keywords" => ""  
-
-   ],
-
-"miami-dedicated-servers" => [
-    "title" => "Best Miami Dedicated Server | NVMe SSD Bare Metal in Florida",
-    "description" => "Discover YouStable's Miami dedicated servers with Intel & AMD hardware, NVMe SSDs, 24/7 expert support, and low latency to South America and the Caribbean. Order now!",
-    "keywords" => ""  
-
-   ],
-
-   "windows-vps-hosting" => [
-    "title" => "Cheap Windows VPS Hosting | Fast & Reliable 99.99% Uptime",
-    "description" => "Looking for cheap Windows VPS hosting? YouStable offers best windows RDP VPS plans with 24/7 support, free instant setup, scalable servers, and NVMe SSD drives.",
-    "keywords" => "windows vps hosting, windows vps hosting price, best windows vps plans, windows vps, windows vps hosting, windows vps server, cheap windows vps"  
-
-   ],
-
-   "ubuntu-vps-hosting" => [
-    "title" => "Ubuntu VPS Hosting | Blazing-Fast NVMe SSD Ubuntu VPS",
-    "description" => "Get a secure, reliable, and cost-effective Ubuntu VPS server with preinstalled Ubuntu Linux OS, instant setup, 24/7 support, and a NVMe SSD Storage.",
-    "keywords" => "Ubuntu vps hosting free,Cheap Ubuntu VPS,best ubuntu hosting,ubuntu vps web hosting,VPS Ubuntu free,Best ubuntu vps hosting,Ubuntu server hosting
-,Buy Ubuntu server,Ubuntu free hosting"  
-
-   ],
-
-   "linux-vps-hosting" => [
-    "title" => "Linux VPS Hosting | Fast, Reliable & Affordable Linux VPS",
-    "description" => "Experience unmatched speed, security, and stability with our affordable Linux VPS hosting. Enjoy free DDoS protection, NVMe SSD storage, and AMD EPYC processors.",
-    "keywords" => "linux vps hosting, linux vps server, linux vps server free, linux vps server cheap, linux vps server price, linux virtual server host, cheap linux vps hosting, best linux vps hosting provider, kali linux vps hosting, cheapest linux vps hosting, linux centos vps hosting, linux vps hosting server, free linux virtual server hosting, node.js linux vps hosting, linux vps free, linux server hosting free, linux vm hosting, linux server hosting"  
-
-   ],
-
-    "wordpress-vps-hosting" => [
-    "title" => "Buy WordPress VPS Hosting | AMD CPU,NVMe SSD,Full Root Access",
-    "description" => "Get WordPress VPS hosting with 100% in-house support, 1-click installs, lightning-fast speeds, daily backups, and auto updates. Starts at $7/mo.",
-    "keywords" => "WordPress vps hosting,Cheap WordPress VPS,best WordPress VPS hosting,WordPress vps web hosting,VPS WordPress free,Best WordPress vps hosting server,WordPress server hosting,Buy WordPress VPS server"  
-
-   ],
-
-    "high-performance-vps" =>[
-      "title" =>"High-Performance VPS Hosting | Fast NVMe SSD, 99.99% Uptime",
-      "description"=> "Get high-performance VPS hosting with fast NVMe SSD storage and 99.99% uptime. Enjoy reliable, ultra-fast speeds and seamless performance for your online projects",
-      "keywords" => "High-performance virtual private server, High-speed VPS hosting, High-performance cloud VPS, Premium VPS hosting, Ultra-fast VPS hosting, Enterprise-grade VPS hosting, High-performance SSD VPS, Optimized VPS performance, VPS with fast SSD storage, VPS hosting for high traffic, High-performance Linux VPS, High-performance Windows VPS"
-    ],
-   
-
-    "windows-vps-india" =>[
-      "title" =>"Best Cheap Windows VPS India | Instant Deploy, NVMe SSD",
-      "description"=> " YouStable offers cheap Windows VPS hosting in India with guaranteed CPU, RDP access, 1Gbps speed, 24/7 support, free setup, and flexible payments—starting at $15/mo!",
-      "keywords" => " cheap Windows VPS India, Indian Windows VPS Hosting, best Windows VPS hosting India, cheapest Windows VPS hosting India, Windows VPS hosting price in India",
-       'schema' => '
-<script type="application/ld+json">{
-    "@context": "https://schema.org",
-    "@graph": {
-        "0": {
-            "@type": "Product",
-            "name": "Windows VPS India",
-            "category": "VPS",
-            "url": "https://www.youstable.com/windows-vps-india",
-            "image": { "@type": "ImageObject", "url": "https://www.youstable.com/assets/img/india-vps_NVMe-SSD-Dedicated.png"},
-            "offers": {
-                "@type": "AggregateOffer",
-                "lowPrice": "15",
-                "priceCurrency": "USD",
-                "availability": "https://schema.org/InStock"
-            },
-            "brand": { "@type": "Brand", "name": "YouStable"},
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "875",
-                "bestRating": "5",
-                "worstRating": "1.0"
-            }
-        },
-        "2": {
-            "@type": "WebPage",
-            "breadcrumb": {
-                "@type": "BreadcrumbList",
-                "itemListElement": [
-                    {
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "Windows VPS India",
-                        "item": "https://www.youstable.com/windows-vps-india"
-                    }
-                ]
-            }
-        }
-    }
-}</script>'
     ],
 
 
 
-  // ... (add meta data for all your pages)
+    "dedicated-cpanel" => [
+        "title" => "Buy cPanel Dedicated Server in Dubai - NVMe SSD, # Access",
+        "description" => "Buy cPanel Dedicated Servers From YouStable. Turbocharge Your Website with Lightning-Fast Speeds and Unbeatable Performance. NVMe SSD, Full Root, 99.99% Uptime!",
+        "keywords" => "cPanel Dedicated Servers, dedicated server hosting, managed dedicated server, linux dedicated server hosting, Dedicated servers with cPanel, Cheap cPanel dedicated servers",
+        'schema' => ''
+
+    ],
+
+    "datacenter" => [
+        "title" => "Network and Datacenters | YouStable®",
+        "description" => "Discover YouStable's fast, reliable, and high-performing servers in secure datacenters across the USA, India and Europe.",
+        "keywords" => "cPanel Dedicated Servers, dedicated server hosting, managed dedicated server, linux dedicated server hosting, Dedicated servers with cPanel, Cheap cPanel dedicated servers",
+        'schema' => '
+        <script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"Buy cPanel Dedicated Servers From YouStable. Turbocharge Your Website with Lightning-Fast Speeds and Unbeatable Performance. NVMe SSD, Full Root, 99.99% Uptime!","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"47500","lowprice":"10694","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+
+
+    "mumbai-dedicated" => [
+        "title" => "Best Mumbai Dedicated Server ",
+        "description" => "",
+        "keywords" => "",
+        'schema' => ''
+
+    ],
+
+    "bare-metal" => [
+        "title" => "#1 Bare Metal Server Hosting- Buy bare metal Server Dubai, NVMe SSD",
+        "description" => "Buy Best High-performance Bare Metal Server In Dubai With 99.99% Uptime, Full Root Access,  In-House Dedicated Hosting Experts, No Setup Fees, Affordable Prices",
+        "keywords" => "bare metal server pricing, bare metal server hosting, buy bare metal server, cheapest bare metal server, cheap bare metal server hosting, buy bare metal servers in Dubai.",
+        'schema' => '
+         <script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://youstable.in/assets/img/youstable-logo-white.png","description":"Buy Best High-performance Bare Metal Server In Dubai With 99.99% Uptime, Full Root Access,  In-House Dedicated Hosting Experts, No Setup Fees, Affordable Prices","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"47500","lowprice":"10694","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+
+    ],
+
+
+
+    "datacenter" => [
+        "title" => "#1 Buy Cheap Dedicated Servers In Dubai - No Setup Fee",
+        "description" => " Buy Cheap Dedicated Servers with 24x7 Dubai Support. Our Dedicated Servers Now Come with High Memory SSD Storage, Next Generation Processors, Full Root Access",
+        "keywords" => "Powerful Dedicated Hosting, Best Linux Dedicated Server Hosting in Dubai, Fully Managed Dedicated Server Hosting, Best dedicated server hosting provider, Dedicated server hosting Dubai, Dedicated Servers Dubai, Premium Dedicated Hosting, cheap dedicated hosting",
+        'schema' => '
+<script type="application/ld+json">
+         {"@context":"http://schema.org/","@type":"Product","name":"Web Hosting","image":"https://www.youstable.com/assets/img/youstable-logo-white.png","description":"Buy Cheap Dedicated Servers with 24x7 Dubai Support. Our Dedicated Servers Now Come with High Memory SSD Storage, Next Generation Processors, Full Root Access","sku":"Web Hosting in Dubai","mpn":"Web Hosting Dubai With Free Domain","review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"4.9","bestRating":"5"},"author":{"@type":"Organization","name":"YouStable"}},"brand":{"@type":"Brand","name":"YouStable"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","bestRating":"5","reviewCount":"450"},"offers":{"@type":"AggregateOffer","priceCurrency":"INR","offerCount":"5","highprice":"47500","lowprice":"10694","seller":{"@type":"Organization","name":"YouStable"}}}
+      </script>'
+    ],
+
+
+    "about-us" => [
+        "title" => "YouStable &trade; About Us",
+        "description" => "Our company has been started with an aim to provide the best web hosting services in the market which everyone can afford to host their website on internet.",
+        "keywords" => "Unlimited web hosting plans in Dubai, cheap web hosting Dubai, unlimited hosting plans, Host Unlimited Websites, unlimited web hosting plans, Cheapest Web Hosting Dubai, Dubai Best Unlimited Web Hosting",
+    ],
+
+    "affiliate" => [
+        "title" => "Best Hosting Affiliate Program in Dubai | $200 High Paying",
+        "description" => "YouStable’s Best Web Hosting Affiliate Program Enable You to Monetize Traffic on Your Site through the Highest Referral Commissions in Industry up to $200/sale",
+        "keywords" => "web hosting affiliate program, web hosting affiliate programs in Dubai, best web hosting affiliate programs, highest paying affiliate programs, highest paying affiliate programs with recurring commissions, highest paying hosting affiliate programs, highest paying web hosting affiliate programs, web hosting affiliate"
+
+    ],
+
+    "our-team" => [
+        "title" => "YouStable &trade; Team",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+    "career" => [
+        "title" => "YouStable Career Opportunities",
+        "description" => "YouStable’s career page is designed to search for brilliant minds which can contribute in our vision of providing best in class hosting services at low cost.",
+        "keywords" => "Unlimited Hosting Plans, Host unlimited domains, best unlimited hosting plans, unlimited web hosting providers, Unlimited web hosting cPanel, Unlimited web hosting plans in India, Cheap unlimited web hosting, Cheap unlimited web hosting, YouStable, YouStable review"
+
+    ],
+
+    "contact-us" => [
+        "title" => "Contact-us",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+    "accept-usage-policy" => [
+        "title" => "YouStable &trade; Acceptable Usage Policy",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+    "privacy-policy" => [
+        "title" => "YouStable &trade; Privacy Policy",
+        "description" => "",
+        "keywords" => "",
+        'schema' => ''
+
+    ],
+
+
+    "terms-condition" => [
+        "title" => "YouStable &trade; Terms of Service",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+
+    "fair-usage-policy" => [
+        "title" => "YouStable &trade; Fair Usage Policy",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+    "affiliate-terms" => [
+        "title" => "YouStable &trade; YouStable Affiliate Policy",
+        "description" => "",
+        "keywords" => ""
+
+    ],
+
+
+
+
+
+    // ... (add meta data for all your pages)
 ];

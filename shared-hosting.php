@@ -1,5 +1,5 @@
 <?php
-$page = 'Home';
+$page = 'shared-hosting';
 include('inc/header.php');
 ?>
 
@@ -24,7 +24,7 @@ include('inc/header.php');
                             <li class="purple-text_dark mb-3 color-black-1"><span class="text-dark dot"><img
                                         src="assets/img/icons/Easy-to-use-control-panel.svg" alt="migration"></span>Easy to use control panel</li>
                             <li class="purple-text_dark color-black-1"><span class="text-dark dot"><img
-                                        src="assets/img/icons/" alt="support"></span>Daily Backups
+                                        src="assets/img/icons/daily-backup.svg" alt="support"></span>Daily Backups
                             </li>
                         </ul>
                     </div>
@@ -35,7 +35,7 @@ include('inc/header.php');
                     Guarantee</p>
             </div>
             <div class="col-md-6">
-                <img class="banner_img floatings" src="assets/img/cloud-hosting.png" alt="Banner">
+                <img class="banner_img floatings" src="assets/img/heroImg/lightning-fast-&-managed-shared-hosting.png" alt="Banner">
             </div>
         </div>
     </div>

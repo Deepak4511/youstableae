@@ -17,7 +17,7 @@ include ('inc/header.php');
                 <!--<p class="Money-Back-Guarantee"><img src="assets/img/ic-shield.png" alt="shield">30-Day Money-Back Guarantee</p>-->
             </div>
             <div class="col-md-6">
-                <img class="w-100 banner_img team-image floatings" src="assets/img/ourteam/join-our-team.png" alt="Banner" />
+                <img class="banner_img team-image floatings" src="/assets/img/heroImg/join-our-team.png" alt="Banner" />
             </div>
         </div>
     </div>

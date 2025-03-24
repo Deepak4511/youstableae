@@ -23,7 +23,7 @@ include('../inc/header.php');
             <ul class="banner-list list-unstyled">
               <li class="purple-text_dark mb-3 color-black-1"><img src="../assets/img/icons/US-NL-&-India-Locations.svg"
                   alt="tick" class="tick-square">Multiple Dubai Location</li>
-              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/Multiple-Server-Location.svg"
+              <li class="purple-text_dark color-black-1"><img src="../assets/img/icons/premium-latest-hardware.svg"
                   alt="tick" class="tick-square">Premium Latest Hardware</li>
             </ul>
           </div>
@@ -78,7 +78,7 @@ include('../inc/header.php');
           </div>
           <div class="col-md-4 cols-awesome-youstable">
             <div class="feature_cols_dedicated">
-              <img src="../assets/img/icons/advanced-control-panel.svg" alt="ssl-certificate">
+              <img src="../assets/img/icons/cPanel-control-panel.svg" alt="ssl-certificate">
               <div class="border-box">
                 <h5 class="ay-heading">Maximum Control</h5>
                 <p class="ay-title dedicate-content">With YouStable's user-friendly client portal and API, you have the ability to manage your entire hosting infrastructure effortlessly from a single interface.</p>
@@ -119,7 +119,7 @@ include('../inc/header.php');
         </div>
         <div class="col-md-3 server-cols">
           <div class="bg-lt-blacks">
-            <img src="../assets/img/" alt="open cart" class="">
+            <img src="../assets/img/centos-2.png" alt="open cart" class="">
           </div>
         </div>
         <div class="col-md-3 server-cols">
@@ -190,7 +190,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link active teb-bg-purple" id="pills_tab_1" data-bs-toggle="pill"
             data-bs-target="#FcPanel_tab" type="button" role="tab" aria-controls="FcPanel_tab" aria-selected="true">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/nvme-ssd-1.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/cpannel.svg"
                   alt="migration"></span>cPanel</li>
           </button>
         </p>
@@ -200,7 +200,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_2" data-bs-toggle="pill"
             data-bs-target="#DirectAdmin_tab" type="button" role="tab" aria-controls="DirectAdmin_tab"
             aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/optimized-servers.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/direct-admin.svg"
                   alt="migration"></span>DirectAdmin
             </li>
           </button>
@@ -211,7 +211,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
           <button class="nav-link teb-bg-purple" id="pills_tab_3" data-bs-toggle="pill" data-bs-target="#CyberPanel_tab"
             type="button" role="tab" aria-controls="CyberPanel_tab" aria-selected="false">
             <li class="color-black-1"><span class="text-dark dot"><img
-                  src="../assets/img/advanced-control-panel.svg" alt="migration"></span>CyberPanel
+                  src="../assets/img/cyber-pannel.svg" alt="migration"></span>CyberPanel
             </li>
           </button>
         </p>
@@ -220,7 +220,7 @@ You can easily add or remove all upgrades and addons by sending an email to our 
         <p class="nav-item" role="presentation">
           <button class="nav-link teb-bg-purple" id="pills_tab_4" data-bs-toggle="pill" data-bs-target="#CentOs_tab"
             type="button" role="tab" aria-controls="CentOs_tab" aria-selected="false">
-            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/guaranteed-uptime.svg"
+            <li class="color-black-1"><span class="text-dark dot"><img src="../assets/img/centos-web-pannel.svg"
                   alt="migration"></span>CentOs Web
               Panel</li>
           </button>

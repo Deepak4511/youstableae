@@ -13,9 +13,9 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="1000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Satish-Kushwaha.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Satish-Kushwaha.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class=" cutomer-heading">Customer Support</h5> -->
                                 <p class=" cutomer_review">I’m quite impressed with their customer support team, Who
                                     helped me with an issue I was experiencing while uploading files on my website.
@@ -28,9 +28,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="1000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Satish Kushwaha.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Satish Kushwaha.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class=" cutomer-heading">Customer Support</h5> -->
                                 <p class=" cutomer_review">The Youstable appears to excel in reliability and customer
                                     support. Their consistent uptime and responsive assistance contribute to a positive
@@ -45,9 +45,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="1000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Akash-Singh-Rajpoot.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Akash-Singh-Rajpoot.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class=" cutomer-heading">Customer Support</h5> -->
                                 <p class=" cutomer_review">I registered with YouStable affiliate program and with the
                                     help of the promotional material they provide I was able to get started to earn
@@ -60,9 +60,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="3000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Lakshya-Poptani.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Lakshya-Poptani.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class=" cutomer-heading">Attractive Affiliates</h5> -->
                                 <p class=" cutomer_review">Hello everyone,
                                     I am using youstable hosting from past 3 years approximately.... And got a great
@@ -78,9 +78,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="3000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Mohd-Zayeem-Raza.png" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Mohd-Zayeem-Raza.png" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class="cutomer-heading">Fastest Hosting</h5> -->
                                 <p class=" cutomer_review">As a Web Development and SEO agency owner, I give YouStable
                                     an Upper hand. Their Managed Servers backed by Highest Uptime, 24/7 Customer Support
@@ -95,9 +95,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="3000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Sahil-Saini.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Sahil-Saini.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class="cutomer-heading">Cost effective Hosting </h5> -->
                                 <p class=" cutomer_review">I’ve been using YouStable to host my website and I’m
                                     extremely satisfied. The instant order activation let me start right away. Their
@@ -113,9 +113,9 @@
                     </div>
                     <div class="carousel-item" data-bs-interval="3000">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\Akshay-Lokhande.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\Akshay-Lokhande.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class="cutomer-heading">Handy Domain Buy & Transfer</h5> -->
                                 <p class=" cutomer_review">Youstable.com has been my go-to for 4 years. Fast, reliable
                                     hosting with zero downtime. User-friendly control panel. Exceptional support,
@@ -130,9 +130,9 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousal-cap">
-                            <img src="assets\img\reviews\GAJRAJ-BALAI.jpg" class="review-img" alt="customer img">
+                            <img src="https://deepak.codingbrackets.dev/assets\img\reviews\GAJRAJ-BALAI.jpg" class="review-img" alt="customer img">
                             <div class="bg-customer-review ">
-                                <img src="assets/img/punctuation.png" alt="punchuation img" class="punctuation">
+                                <img src="https://deepak.codingbrackets.dev/assets/img/punctuation.png" alt="punchuation img" class="punctuation">
                                 <!-- <h5 class="cutomer-heading">Best Migration Service</h5> -->
                                 <p class=" cutomer_review">Thanks, Team YouStable! Your exceptional hosting delivers
                                     seamless uptime, lightning-fast speeds, and intuitive control. Responsive support,
